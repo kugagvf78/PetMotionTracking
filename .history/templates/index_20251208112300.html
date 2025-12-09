@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Motion Tracking Dashboard</title>
+
+    <link rel="stylesheet" href="/static/css/style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body class="light">
+
+    <!-- NAVIGATION BAR -->
+    <nav class="navbar">
+        <h2>🐾 Pet Motion Tracking</h2>
+
+        <div class="nav-right">
+            <a href="/settings" class="nav-btn">⚙️ Settings</a>
+            <button id="themeToggle" class="nav-btn">🌙 Dark Mode</button>
+        </div>
+    </nav>
+
+
+
+    <!-- MAIN CONTAINER -->
+    <div class="container">
+
+        <div class="grid-2col">
+
+            <!-- LIVE CAMERA STREAM -->
+            <div class="card camera-card">
+                <h3>🎥 Live Camera</h3>
+                <img id="liveFeed" src="/video_feed">
+            </div>
+
+            <!-- MOTION CHART -->
+            <div class="card">
+                <h3>📊 Motion Frequency (Today)</h3>
+                <canvas id="motionChart"></canvas>
+            </div>
+
+        </div>
+
+        <!-- LOG LIST -->
+        <div class="card log-card">
+            <h3>📜 Nhật ký chuyển động</h3>
+
+            <div id="logList"></div>
+
+        </div>
+
+    </div>
+
+    <script src="/static/js/dashboard.js"></script>
+
+</body>
+</html>

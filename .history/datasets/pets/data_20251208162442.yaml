@@ -1,0 +1,13 @@
+train: datasets/pets/train/images
+val: datasets/pets/valid/images
+test: datasets/pets/test/images
+
+nc: 2
+names: ['Cat', 'Dog']
+
+roboflow:
+  workspace: iot-eprbe
+  project: dogs-vs-cats-xyjxy-h5wb8
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/iot-eprbe/dogs-vs-cats-xyjxy-h5wb8/dataset/1

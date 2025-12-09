@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cấu hình Arduino</title>
+
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body class="light">
+
+    <!-- NAV -->
+    <nav class="navbar">
+        <h2>⚙️ Arduino Settings</h2>
+
+        <div class="nav-right">
+            <a href="/" class="nav-btn">🏠 Dashboard</a>
+            <button id="themeToggle" class="nav-btn">🌙 Dark Mode</button>
+        </div>
+    </nav>
+
+
+    <!-- MAIN SETTINGS AREA -->
+    <div class="container">
+
+        <div class="card">
+            <h3>🎛 Cấu hình mô phỏng Arduino</h3>
+
+            <form id="settingsForm">
+
+                <!-- Sensitivity -->
+                <label class="label">Độ nhạy PIR:</label>
+                <input type="number" id="sensitivity"
+                       min="200" max="5000"
+                       value="{{ sensitivity }}"
+                       class="input-box">
+
+                <!-- Logging -->
+                <label class="label">Ghi log chuyển động:</label>
+                <select id="logEnabled" class="input-box">
+                    <option value="true" {% if log_enabled %}selected{% endif %}>Bật</option>
+                    <option value="false" {% if not log_enabled %}selected{% endif %}>Tắt</option>
+                </select>
+
+                <button class="save-btn" type="submit">💾 Lưu cấu hình</button>
+            </form>
+
+            <p id="statusText" class="status-text"></p>
+
+        </div>
+
+    </div>
+
+    <script src="/static/js/settings.js"></script>
+
+</body>
+
+</html>

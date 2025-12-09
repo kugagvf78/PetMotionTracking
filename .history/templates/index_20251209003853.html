@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pet Tracking Dashboard</title>
+
+    <!-- GLOBAL CSS -->
+    <link rel="stylesheet" href="/static/css/style.css" />
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+
+  <body class="light">
+    <!-- NAVBAR -->
+    <nav class="navbar">
+      <h2>🐾 Pet Tracking Dashboard</h2>
+
+      <div class="nav-right">
+        <button id="themeToggle" class="nav-btn">
+          <span id="themeIcon">🌙</span>
+          <span id="themeText">Dark Mode</span>
+        </button>
+      </div>
+    </nav>
+
+    <div class="container">
+      <!-- STATUS BAR -->
+      <div class="status-bar">
+        <div class="status-item">
+          <span class="status-indicator" id="sysIndicator"></span>
+          <span class="status-text"><strong>Hệ thống:</strong> Đang chạy</span>
+        </div>
+
+        <div class="status-item">
+          <span class="status-text"
+            >🎥 <strong>Camera:</strong>
+            <span id="cameraStatus">Đang tải...</span>
+          </span>
+        </div>
+
+        <div class="status-item">
+          <span class="status-text"
+            >📡 <strong>PIR:</strong>
+            <span id="pirStatus" style="color: #aaa">---</span>
+          </span>
+        </div>
+
+        <div class="status-item">
+          <span class="status-text"
+            >🎯 <strong>RFID:</strong>
+            <span id="rfidStatus" style="color: #aaa">---</span>
+          </span>
+        </div>
+
+        <div class="status-item">
+          <span class="status-text"
+            >📊 <strong>Tổng event:</strong>
+            <span id="totalEvents">0</span>
+          </span>
+        </div>
+      </div>
+
+      <!-- STATS -->
+      <div class="stats-grid">
+        <div class="stat-mini">
+          <span class="icon">📈</span>
+          <div class="label">Hoạt động hôm nay</div>
+          <div class="value" id="todayCount">0</div>
+        </div>
+
+        <div class="stat-mini">
+          <span class="icon">⏰</span>
+          <div class="label">Gần nhất</div>
+          <div class="value" id="lastTime">--:--</div>
+        </div>
+
+        <div class="stat-mini">
+          <span class="icon">🐕</span>
+          <div class="label">Pet Detected</div>
+          <div class="value" id="petStatus">Không thấy</div>
+        </div>
+
+        <!-- NEW AI BADGE -->
+        <div
+          class="stat-mini"
+          id="petBadge"
+          style="display: none; background: #ffefef; border: 1px solid #ff6b6b"
+        >
+          <span class="icon">⚠️</span>
+          <div class="label">Cảnh báo</div>
+          <div class="value" style="color: #d90429">Pet đang di chuyển!</div>
+        </div>
+
+        <div class="stat-mini">
+          <span class="icon">🔥</span>
+          <div class="label">Điểm hành vi</div>
+          <div class="value" id="behaviorScore">0</div>
+        </div>
+      </div>
+
+      <!-- MAIN GRID -->
+      <div class="grid-2col">
+        <div class="card camera-card">
+          <h3>🎥 Camera trực tiếp</h3>
+          <div class="camera-overlay">● REC</div>
+          <img
+            id="liveFeed"
+            src="/video_feed"
+            style="width: 100%; border-radius: 12px"
+          />
+        </div>
+
+        <div class="card">
+          <h3>📊 Biểu đồ hoạt động hôm nay</h3>
+          <canvas id="motionChart"></canvas>
+        </div>
+      </div>
+
+      <!-- ALERT PANEL -->
+      <div class="card">
+        <h3>🚨 Cảnh báo & Phát hiện AI</h3>
+        <div id="alertPanel" class="alert-panel">
+          <p class="empty-alert">⏳ Đang chờ dữ liệu AI...</p>
+        </div>
+      </div>
+
+      <!-- LOGS -->
+      <div class="card log-card">
+        <h3>📝 Nhật ký chuyển động</h3>
+        <div id="logList"></div>
+      </div>
+    </div>
+
+    <script src="/static/js/dashboard.js"></script>
+  </body>
+</html>

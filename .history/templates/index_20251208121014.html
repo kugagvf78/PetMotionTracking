@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Motion Tracking System</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body class="light">
+
+    <!-- NAVBAR -->
+    <nav class="navbar">
+        <h2>🐾 Pet Motion Tracking System</h2>
+
+        <div class="nav-right">
+            <a href="/settings" class="nav-btn">⚙️ Settings</a>
+            <button id="themeToggle" class="nav-btn">🌙 Dark Mode</button>
+        </div>
+    </nav>
+
+    <!-- STATUS BAR -->
+    <div class="container">
+        <div class="status-bar">
+            <div class="status-item">
+                <span class="status-indicator"></span>
+                <span class="status-text"><strong>Hệ thống:</strong> Đang giám sát</span>
+            </div>
+            <div class="status-item">
+                <span class="status-text">
+                    🎥 <strong>Camera:</strong> <span id="cameraStatus">Đang tải...</span>
+                </span>
+            </div>
+            <div class="status-item">
+                <span class="status-text">
+                    📊 <strong>Tổng sự kiện:</strong> <span id="totalEvents">0</span>
+                </span>
+            </div>
+        </div>
+
+        <!-- STATS -->
+        <div class="stats-grid">
+            <div class="stat-mini">
+                <div class="icon">📈</div>
+                <div class="label">Hoạt động hôm nay</div>
+                <div class="value" id="todayCount">0</div>
+            </div>
+
+            <div class="stat-mini">
+                <div class="icon">⏰</div>
+                <div class="label">Lần cuối</div>
+                <div class="value" id="lastTime" style="font-size: 1.2em">--:--</div>
+            </div>
+
+            <div class="stat-mini">
+                <div class="icon">🔥</div>
+                <div class="label">Thời gian cao điểm</div>
+                <div class="value" id="peakTime" style="font-size: 1.2em">--:--</div>
+            </div>
+        </div>
+
+        <!-- MAIN GRID -->
+        <div class="grid-2col">
+            <!-- CAMERA -->
+            <div class="card camera-card">
+                <h3>🎥 Camera trực tiếp</h3>
+                <div class="camera-overlay">● REC</div>
+                <img id="liveFeed" src="/video_feed" alt="Live camera feed">
+            </div>
+
+            <!-- CHART -->
+            <div class="card">
+                <h3>📊 Biểu đồ hoạt động (Hôm nay)</h3>
+                <canvas id="motionChart"></canvas>
+            </div>
+        </div>
+
+        <!-- LOGS -->
+        <div class="card log-card">
+            <h3>📝 Nhật ký chuyển động gần đây</h3>
+            <div id="logList">
+                <div class="no-logs"><p>🔍 Đang tải nhật ký...</p></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/dashboard.js"></script>
+
+</body>
+</html>
+y

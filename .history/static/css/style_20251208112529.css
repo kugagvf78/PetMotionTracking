@@ -1,0 +1,170 @@
+/* ===== BASE ===== */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    transition: 0.3s;
+}
+
+:root {
+    --bg: #f4f6f8;
+    --card: white;
+    --border: #ddd;
+    --text: #222;
+    --subtext: #666;
+    --accent: #4CAF50;
+}
+
+/* DARK THEME */
+body.dark {
+    --bg: #121212;
+    --card: #1f1f1f;
+    --border: #333;
+    --text: #eaeaea;
+    --subtext: #aaa;
+    --accent: #4CAF50;
+}
+
+/* ===== NAVBAR ===== */
+.navbar {
+    background: var(--card);
+    padding: 16px 40px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.nav-right {
+    display: flex;
+    gap: 15px;
+}
+
+.nav-btn {
+    padding: 8px 14px;
+    background: var(--accent);
+    border: none;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.nav-btn:hover {
+    opacity: 0.85;
+}
+
+/* ===== MAIN CONTAINER ===== */
+.container {
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+.grid-2col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+}
+
+/* ===== CARD ===== */
+.card {
+    background: var(--card);
+    padding: 20px;
+    border-radius: 14px;
+    border: 1px solid var(--border);
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.05);
+}
+
+.card h3 {
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--text);
+}
+
+/* ===== CAMERA ===== */
+.camera-card img {
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+}
+
+/* ===== LOG LIST ===== */
+.log-card {
+    margin-top: 30px;
+}
+
+#logList {
+    margin-top: 15px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.log-item {
+    padding: 12px 14px;
+    background: var(--bg);
+    border-left: 4px solid var(--accent);
+    margin-bottom: 10px;
+    border-radius: 8px;
+    font-size: 14px;
+    color: var(--text);
+}
+
+.time {
+    font-weight: 600;
+    color: var(--subtext);
+}
+
+/* ===== SCROLLBAR ===== */
+#logList::-webkit-scrollbar {
+    width: 8px;
+}
+
+#logList::-webkit-scrollbar-thumb {
+    background: #999;
+    border-radius: 8px;
+}
+
+/* ===== SETTINGS PAGE ===== */
+.label {
+    display: block;
+    margin-top: 12px;
+    margin-bottom: 6px;
+    color: var(--text);
+    font-weight: 600;
+}
+
+.input-box {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--text);
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.save-btn {
+    margin-top: 15px;
+    background: var(--accent);
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.status-text {
+    margin-top: 15px;
+    font-style: italic;
+    color: var(--subtext);
+}

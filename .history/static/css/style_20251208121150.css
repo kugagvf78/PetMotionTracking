@@ -1,0 +1,151 @@
+/* ===== THEME VARIABLES ===== */
+
+:root {
+    --bg: #f4f6f8;
+    --card: #ffffff;
+    --border: #ddd;
+    --text: #222;
+    --subtext: #666;
+    --accent: #4CAF50;
+}
+
+body.dark {
+    --bg: #121212;
+    --card: #1f1f1f;
+    --border: #333;
+    --text: #f0f0f0;
+    --subtext: #aaa;
+    --accent: #4CAF50;
+}
+
+/* ===== GLOBAL ===== */
+
+body {
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    transition: 0.25s ease;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+/* ===== NAVBAR ===== */
+
+.navbar {
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-btn {
+    padding: 10px 15px;
+    background: var(--accent);
+    border: none;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.25s;
+}
+
+.nav-btn:hover {
+    opacity: 0.85;
+}
+
+/* ===== STATUS BAR ===== */
+
+.status-bar {
+    background: var(--card);
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.status-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.status-indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #22c55e;
+    box-shadow: 0 0 12px #22c55e88;
+}
+
+/* ===== MINI STATS ===== */
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+.stat-mini {
+    background: var(--card);
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    text-align: center;
+}
+
+/* ===== GRID ===== */
+
+.grid-2col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+}
+
+/* ===== CARD ===== */
+
+.card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    padding: 20px;
+    border-radius: 14px;
+}
+
+/* ===== CAMERA ===== */
+
+.camera-card img {
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+}
+
+/* ===== LOGS ===== */
+
+#logList {
+    margin-top: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.log-item {
+    background: var(--bg);
+    border-left: 4px solid var(--accent);
+    padding: 10px 12px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.log-time {
+    color: var(--subtext);
+    font-weight: bold;
+    margin-right: 8px;
+}

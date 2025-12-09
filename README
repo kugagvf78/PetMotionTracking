@@ -1,0 +1,177 @@
+# 🐾 Pet Monitoring System - Arduino + Flask Integration
+
+## 📋 Cấu trúc hệ thống
+
+```
+Arduino (Wokwi)  ←→  Serial USB  ←→  Python Bridge  ←→  Flask Server
+     ↓                                      ↓
+  PIR Sensor                          YOLO Detection
+  RFID Button                         Camera Stream
+  LED Indicators                      Web Dashboard
+```
+
+## 🔌 Sơ đồ mạch Wokwi
+
+**Thành phần:**
+- Arduino Uno
+- PIR Motion Sensor (Pin 2)
+- 3x LED (Pin 3, 4, 5) + 220Ω resistors
+  - LED Đỏ (Pin 3): Motion detected
+  - LED Xanh lá (Pin 4): Pet verified by AI
+  - LED Xanh dương (Pin 5): RFID detected
+- Push Button (Pin 6): Mô phỏng RFID reader
+
+## 🚀 Cách chạy
+
+### 1. Setup Wokwi
+
+1. Vào [Wokwi.com](https://wokwi.com)
+2. Tạo project mới "Arduino Uno"
+3. Copy nội dung `diagram.json` vào tab "diagram.json"
+4. Copy nội dung `sketch.ino` vào tab "sketch.ino"
+5. Click "Start Simulation"
+
+### 2. Kết nối Serial (2 cách)
+
+#### Cách 1: Wokwi Bridge (Recommend)
+```bash
+# Install Wokwi CLI
+npm install -g wokwi-cli
+
+# Connect to virtual serial port
+wokwi-cli --port 9012
+```
+
+#### Cách 2: Arduino thật qua USB
+1. Upload code `sketch.ino` lên Arduino thật
+2. Cắm USB vào máy tính
+3. Python sẽ tự detect COM port
+
+### 3. Chạy Python
+
+```bash
+# Test Arduino connection trước
+python arduino_bridge.py
+
+# Nếu OK, chạy Flask server
+python app_with_arduino.py
+```
+
+### 4. Mở Web Dashboard
+
+```
+http://localhost:5000
+```
+
+## 📡 Giao thức Serial
+
+### Arduino → Python
+```
+PIR:1              # PIR detected motion
+PIR:0              # No motion
+RFID:VAN_CAT_001   # RFID tag scanned
+PONG               # Response to PING
+```
+
+### Python → Arduino
+```
+PET_DETECTED       # AI confirmed pet
+NO_PET             # AI sees no pet
+PING               # Health check
+```
+
+## 🎮 Test trong Wokwi
+
+1. **Test PIR**: Di chuyển chuột vào PIR sensor → LED đỏ sáng
+2. **Test RFID**: Click nút "RFID Sim" → LED xanh dương nhấp nháy 3 lần
+3. **Test AI Response**: 
+   - Khi PIR = 1 và webcam thấy mèo/chó
+   - Arduino nhận `PET_DETECTED` → LED xanh lá sáng 2s
+
+## 🔍 Debug
+
+### Arduino không connect?
+```bash
+# List available ports
+python -c "import serial.tools.list_ports; print([p.device for p in serial.tools.list_ports.comports()])"
+```
+
+### Wokwi serial không hoạt động?
+- Dùng Arduino thật thay Wokwi
+- Hoặc dùng Virtual COM port software
+
+### LED không sáng?
+- Check diagram.json connections
+- Verify pin numbers trong code
+- Test với Serial Monitor trong Wokwi
+
+## 📊 Features
+
+### Thời gian thực
+- ✅ PIR motion detection
+- ✅ RFID tag scanning
+- ✅ AI pet verification (YOLO)
+- ✅ Behavior scoring
+- ✅ LED feedback trực quan
+
+### Logging
+- ✅ Timestamp mỗi sự kiện
+- ✅ Auto reset log mỗi ngày
+- ✅ Motion statistics
+- ✅ Web API endpoints
+
+## 🛠️ Nâng cấp
+
+### Thêm cảm biến
+```cpp
+// Trong sketch.ino thêm:
+#define ULTRASONIC_TRIGGER 7
+#define ULTRASONIC_ECHO 8
+
+// Đo khoảng cách
+long duration = pulseIn(ULTRASONIC_ECHO, HIGH);
+int distance = duration * 0.034 / 2;
+Serial.print("DISTANCE:");
+Serial.println(distance);
+```
+
+### Thêm buzzer cảnh báo
+```cpp
+#define BUZZER_PIN 9
+
+// Khi không thấy pet mà PIR = 1
+if (noPermissionAlert) {
+  tone(BUZZER_PIN, 1000, 500); // Beep 500ms
+}
+```
+
+## 📝 Notes
+
+- Baudrate: **115200** (phải khớp cả 2 bên)
+- Serial monitor trong Wokwi có thể dùng để debug
+- LEDs dùng resistor 220Ω để tránh cháy
+- RFID button dùng INPUT_PULLUP (active LOW)
+
+## 🎯 Workflow hoàn chỉnh
+
+```
+1. PIR phát hiện chuyển động
+   ↓
+2. Arduino gửi PIR:1 qua Serial
+   ↓
+3. Python nhận và trigger camera + YOLO
+   ↓
+4. YOLO detect cat/dog
+   ↓
+5. Python gửi PET_DETECTED về Arduino
+   ↓
+6. Arduino bật LED xanh lá xác nhận
+   ↓
+7. Log được ghi vào file + hiển thị web
+```
+
+---
+
+**Làm bởi:** Pet Monitoring Team  
+**Tech Stack:** Arduino + Python + Flask + YOLO + OpenCV  
+**Status:** ✅ Production Ready

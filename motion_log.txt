@@ -1,0 +1,3026 @@
+13:26:03 - Chuyển động được ghi nhận!
+13:26:05 - Chuyển động được ghi nhận!
+13:26:08 - Chuyển động được ghi nhận!
+13:26:10 - Chuyển động được ghi nhận!
+13:26:46 - Chuyển động được ghi nhận!
+13:26:48 - Chuyển động được ghi nhận!
+13:26:50 - Chuyển động được ghi nhận!
+13:26:59 - Chuyển động được ghi nhận!
+13:27:01 - Chuyển động được ghi nhận!
+13:27:05 - Chuyển động được ghi nhận!
+13:27:07 - Chuyển động được ghi nhận!
+13:27:09 - Chuyển động được ghi nhận!
+13:27:12 - Chuyển động được ghi nhận!
+13:27:24 - Chuyển động được ghi nhận!
+13:28:30 - Chuyển động được ghi nhận!
+13:28:33 - Chuyển động được ghi nhận!
+13:28:35 - Chuyển động được ghi nhận!
+13:28:37 - Chuyển động được ghi nhận!
+13:44:11 - Motion detected
+13:44:11 - Motion detected
+13:44:12 - Motion detected
+13:44:12 - Motion detected
+13:44:15 - Motion detected
+13:44:15 - Motion detected
+13:44:16 - Motion detected
+13:44:16 - Motion detected
+13:44:17 - Motion detected
+13:44:17 - Motion detected
+13:44:17 - Motion detected
+13:44:18 - Motion detected
+13:44:18 - Motion detected
+13:44:19 - Motion detected
+13:44:20 - Motion detected
+13:44:20 - Motion detected
+13:44:20 - Motion detected
+13:44:21 - Motion detected
+13:44:21 - Motion detected
+13:44:22 - Motion detected
+13:44:22 - Motion detected
+13:44:22 - Motion detected
+13:44:23 - Motion detected
+13:44:23 - Motion detected
+13:44:23 - Motion detected
+13:44:24 - Motion detected
+13:44:24 - Motion detected
+13:44:24 - Motion detected
+13:44:25 - Motion detected
+13:44:25 - Motion detected
+13:44:26 - Motion detected
+13:44:26 - Motion detected
+13:44:26 - Motion detected
+13:44:27 - Motion detected
+13:44:27 - Motion detected
+13:44:27 - Motion detected
+13:44:28 - Motion detected
+13:44:28 - Motion detected
+13:44:29 - Motion detected
+13:44:41 - Motion detected
+13:46:48 - Motion detected
+13:46:48 - Motion detected
+13:46:49 - Motion detected
+13:46:51 - Motion detected
+13:46:53 - Motion detected
+13:46:54 - Motion detected
+13:46:54 - Motion detected
+13:46:54 - Motion detected
+13:46:55 - Motion detected
+13:46:57 - Motion detected
+13:46:57 - Motion detected
+13:46:57 - Motion detected
+13:46:58 - Motion detected
+13:46:59 - Motion detected
+13:47:00 - Motion detected
+13:47:00 - Motion detected
+13:47:01 - Motion detected
+13:47:01 - Motion detected
+13:47:01 - Motion detected
+13:47:02 - Motion detected
+13:47:02 - Motion detected
+13:47:03 - Motion detected
+13:47:03 - Motion detected
+17:02:35 - Motion detected
+17:02:36 - Motion detected
+17:02:36 - Motion detected
+17:02:36 - Motion detected
+17:02:43 - Motion detected
+17:02:45 - Motion detected
+17:02:46 - Motion detected
+17:02:46 - Motion detected
+17:02:46 - Motion detected
+17:02:47 - Motion detected
+17:02:47 - Motion detected
+17:02:52 - Motion detected
+17:02:53 - Motion detected
+17:02:53 - Motion detected
+17:02:54 - Motion detected
+17:02:54 - Motion detected
+17:02:55 - Motion detected
+17:02:55 - Motion detected
+17:02:56 - Motion detected
+17:04:51 - Chuyển động được ghi nhận!
+17:04:55 - Chuyển động được ghi nhận!
+17:05:03 - Chuyển động được ghi nhận!
+17:05:11 - Chuyển động được ghi nhận!
+17:05:31 - Chuyển động được ghi nhận!
+17:05:33 - Chuyển động được ghi nhận!
+17:05:35 - Chuyển động được ghi nhận!
+17:05:37 - Chuyển động được ghi nhận!
+17:05:39 - Chuyển động được ghi nhận!
+17:12:58 - Chuyển động được ghi nhận!
+17:13:02 - Chuyển động được ghi nhận!
+17:13:07 - Chuyển động được ghi nhận!
+17:13:20 - Chuyển động được ghi nhận!
+17:13:22 - Chuyển động được ghi nhận!
+17:13:25 - Chuyển động được ghi nhận!
+17:13:27 - Chuyển động được ghi nhận!
+17:13:29 - Chuyển động được ghi nhận!
+17:13:31 - Chuyển động được ghi nhận!
+17:13:33 - Chuyển động được ghi nhận!
+17:13:35 - Chuyển động được ghi nhận!
+17:13:37 - Chuyển động được ghi nhận!
+17:13:40 - Chuyển động được ghi nhận!
+17:13:42 - Chuyển động được ghi nhận!
+17:13:47 - Chuyển động được ghi nhận!
+17:13:56 - Chuyển động được ghi nhận!
+17:13:59 - Chuyển động được ghi nhận!
+17:14:01 - Chuyển động được ghi nhận!
+17:14:03 - Chuyển động được ghi nhận!
+17:14:05 - Chuyển động được ghi nhận!
+17:14:08 - Chuyển động được ghi nhận!
+17:14:10 - Chuyển động được ghi nhận!
+17:14:12 - Chuyển động được ghi nhận!
+17:14:14 - Chuyển động được ghi nhận!
+17:14:16 - Chuyển động được ghi nhận!
+17:14:18 - Chuyển động được ghi nhận!
+17:14:20 - Chuyển động được ghi nhận!
+17:14:22 - Chuyển động được ghi nhận!
+17:14:24 - Chuyển động được ghi nhận!
+17:14:26 - Chuyển động được ghi nhận!
+17:14:28 - Chuyển động được ghi nhận!
+17:14:42 - Chuyển động được ghi nhận!
+17:14:44 - Chuyển động được ghi nhận!
+17:15:12 - Chuyển động được ghi nhận!
+17:15:14 - Chuyển động được ghi nhận!
+17:15:17 - Chuyển động được ghi nhận!
+17:15:19 - Chuyển động được ghi nhận!
+17:15:21 - Chuyển động được ghi nhận!
+17:15:23 - Chuyển động được ghi nhận!
+17:15:25 - Chuyển động được ghi nhận!
+17:15:38 - Chuyển động được ghi nhận!
+17:15:51 - Chuyển động được ghi nhận!
+17:15:54 - Chuyển động được ghi nhận!
+17:15:56 - Chuyển động được ghi nhận!
+17:16:00 - Chuyển động được ghi nhận!
+17:16:04 - Chuyển động được ghi nhận!
+17:16:10 - Chuyển động được ghi nhận!
+17:16:12 - Chuyển động được ghi nhận!
+17:16:15 - Chuyển động được ghi nhận!
+17:16:17 - Chuyển động được ghi nhận!
+17:16:19 - Chuyển động được ghi nhận!
+17:16:22 - Chuyển động được ghi nhận!
+17:16:24 - Chuyển động được ghi nhận!
+17:16:26 - Chuyển động được ghi nhận!
+17:16:28 - Chuyển động được ghi nhận!
+17:16:30 - Chuyển động được ghi nhận!
+17:16:32 - Chuyển động được ghi nhận!
+17:16:35 - Chuyển động được ghi nhận!
+17:17:49 - Chuyển động được ghi nhận!
+17:17:51 - Chuyển động được ghi nhận!
+17:17:54 - Chuyển động được ghi nhận!
+17:17:57 - Chuyển động được ghi nhận!
+17:17:59 - Chuyển động được ghi nhận!
+17:18:01 - Chuyển động được ghi nhận!
+17:18:03 - Chuyển động được ghi nhận!
+17:18:05 - Chuyển động được ghi nhận!
+17:18:07 - Chuyển động được ghi nhận!
+17:18:09 - Chuyển động được ghi nhận!
+17:18:11 - Chuyển động được ghi nhận!
+17:18:13 - Chuyển động được ghi nhận!
+21:28:27 - Chuyển động được ghi nhận!
+21:38:54 - Chuyển động được ghi nhận!
+21:38:57 - Chuyển động được ghi nhận!
+21:39:00 - Chuyển động được ghi nhận!
+21:39:02 - Chuyển động được ghi nhận!
+21:39:21 - Chuyển động được ghi nhận!
+21:39:23 - Chuyển động được ghi nhận!
+21:39:25 - Chuyển động được ghi nhận!
+21:39:28 - Chuyển động được ghi nhận!
+21:39:30 - Chuyển động được ghi nhận!
+21:39:32 - Chuyển động được ghi nhận!
+21:39:34 - Chuyển động được ghi nhận!
+21:39:36 - Chuyển động được ghi nhận!
+21:39:38 - Chuyển động được ghi nhận!
+21:39:40 - Chuyển động được ghi nhận!
+21:39:42 - Chuyển động được ghi nhận!
+21:39:44 - Chuyển động được ghi nhận!
+21:39:46 - Chuyển động được ghi nhận!
+21:39:48 - Chuyển động được ghi nhận!
+21:39:50 - Chuyển động được ghi nhận!
+21:39:52 - Chuyển động được ghi nhận!
+21:39:56 - Chuyển động được ghi nhận!
+21:39:58 - Chuyển động được ghi nhận!
+21:40:00 - Chuyển động được ghi nhận!
+21:40:02 - Chuyển động được ghi nhận!
+21:40:04 - Chuyển động được ghi nhận!
+21:40:06 - Chuyển động được ghi nhận!
+21:40:09 - Chuyển động được ghi nhận!
+21:50:16 - Chuyển động được ghi nhận!
+21:50:18 - Chuyển động được ghi nhận!
+21:50:20 - Chuyển động được ghi nhận!
+21:50:23 - Chuyển động được ghi nhận!
+21:50:25 - Chuyển động được ghi nhận!
+21:50:27 - Chuyển động được ghi nhận!
+21:50:31 - Chuyển động được ghi nhận!
+21:50:33 - Chuyển động được ghi nhận!
+21:50:35 - Chuyển động được ghi nhận!
+21:50:37 - Chuyển động được ghi nhận!
+21:50:39 - Chuyển động được ghi nhận!
+21:50:41 - Chuyển động được ghi nhận!
+21:50:43 - Chuyển động được ghi nhận!
+21:50:47 - Chuyển động được ghi nhận!
+21:50:49 - Chuyển động được ghi nhận!
+21:50:52 - Chuyển động được ghi nhận!
+21:50:54 - Chuyển động được ghi nhận!
+22:08:23 - Chuyển động được ghi nhận!
+22:08:25 - Chuyển động được ghi nhận!
+22:08:27 - Chuyển động được ghi nhận!
+22:08:30 - Chuyển động được ghi nhận!
+22:09:15 - Chuyển động được ghi nhận!
+22:09:17 - Chuyển động được ghi nhận!
+22:09:22 - Chuyển động được ghi nhận!
+22:09:28 - Chuyển động được ghi nhận!
+22:21:36 - Chuyển động được ghi nhận!
+22:21:38 - Chuyển động được ghi nhận!
+22:21:49 - Chuyển động được ghi nhận!
+22:21:51 - Chuyển động được ghi nhận!
+22:21:53 - Chuyển động được ghi nhận!
+22:21:55 - Chuyển động được ghi nhận!
+22:21:57 - Chuyển động được ghi nhận!
+22:21:59 - Chuyển động được ghi nhận!
+22:22:02 - Chuyển động được ghi nhận!
+22:22:04 - Chuyển động được ghi nhận!
+22:22:08 - Chuyển động được ghi nhận!
+22:22:10 - Chuyển động được ghi nhận!
+22:22:12 - Chuyển động được ghi nhận!
+22:37:23 - Chuyển động được ghi nhận!
+22:37:26 - Chuyển động được ghi nhận!
+22:37:28 - Chuyển động được ghi nhận!
+22:37:33 - Chuyển động được ghi nhận!
+22:37:35 - Chuyển động được ghi nhận!
+22:37:37 - Chuyển động được ghi nhận!
+22:37:39 - Chuyển động được ghi nhận!
+22:37:41 - Chuyển động được ghi nhận!
+22:37:56 - Chuyển động được ghi nhận!
+22:37:58 - Chuyển động được ghi nhận!
+22:38:01 - Chuyển động được ghi nhận!
+22:41:54 - Chuyển động được ghi nhận!
+22:41:57 - Chuyển động được ghi nhận!
+22:41:59 - Chuyển động được ghi nhận!
+22:42:01 - Chuyển động được ghi nhận!
+22:42:03 - Chuyển động được ghi nhận!
+22:42:05 - Chuyển động được ghi nhận!
+22:42:07 - Chuyển động được ghi nhận!
+22:42:09 - Chuyển động được ghi nhận!
+22:42:12 - Chuyển động được ghi nhận!
+22:42:14 - Chuyển động được ghi nhận!
+22:42:16 - Chuyển động được ghi nhận!
+22:42:18 - Chuyển động được ghi nhận!
+22:42:20 - Chuyển động được ghi nhận!
+22:42:23 - Chuyển động được ghi nhận!
+22:42:25 - Chuyển động được ghi nhận!
+22:42:27 - Chuyển động được ghi nhận!
+22:42:29 - Chuyển động được ghi nhận!
+22:42:31 - Chuyển động được ghi nhận!
+22:42:33 - Chuyển động được ghi nhận!
+22:42:36 - Chuyển động được ghi nhận!
+22:42:52 - Chuyển động được ghi nhận!
+22:42:54 - Chuyển động được ghi nhận!
+22:42:56 - Chuyển động được ghi nhận!
+22:42:58 - Chuyển động được ghi nhận!
+22:43:00 - Chuyển động được ghi nhận!
+22:43:02 - Chuyển động được ghi nhận!
+22:43:04 - Chuyển động được ghi nhận!
+22:43:07 - Chuyển động được ghi nhận!
+22:43:09 - Chuyển động được ghi nhận!
+22:43:11 - Chuyển động được ghi nhận!
+22:43:13 - Chuyển động được ghi nhận!
+22:43:16 - Chuyển động được ghi nhận!
+22:43:18 - Chuyển động được ghi nhận!
+22:43:26 - Chuyển động được ghi nhận!
+22:43:28 - Chuyển động được ghi nhận!
+22:43:30 - Chuyển động được ghi nhận!
+22:43:32 - Chuyển động được ghi nhận!
+22:43:34 - Chuyển động được ghi nhận!
+22:43:36 - Chuyển động được ghi nhận!
+22:43:38 - Chuyển động được ghi nhận!
+22:43:41 - Chuyển động được ghi nhận!
+22:43:43 - Chuyển động được ghi nhận!
+22:43:45 - Chuyển động được ghi nhận!
+22:43:49 - Chuyển động được ghi nhận!
+22:43:51 - Chuyển động được ghi nhận!
+22:43:53 - Chuyển động được ghi nhận!
+22:43:55 - Chuyển động được ghi nhận!
+22:43:57 - Chuyển động được ghi nhận!
+22:43:59 - Chuyển động được ghi nhận!
+22:44:02 - Chuyển động được ghi nhận!
+22:44:04 - Chuyển động được ghi nhận!
+22:44:06 - Chuyển động được ghi nhận!
+22:44:08 - Chuyển động được ghi nhận!
+22:44:11 - Chuyển động được ghi nhận!
+22:44:13 - Chuyển động được ghi nhận!
+22:44:16 - Chuyển động được ghi nhận!
+22:44:18 - Chuyển động được ghi nhận!
+22:44:20 - Chuyển động được ghi nhận!
+22:44:22 - Chuyển động được ghi nhận!
+22:44:24 - Chuyển động được ghi nhận!
+22:44:27 - Chuyển động được ghi nhận!
+22:44:29 - Chuyển động được ghi nhận!
+22:44:31 - Chuyển động được ghi nhận!
+22:44:33 - Chuyển động được ghi nhận!
+22:44:35 - Chuyển động được ghi nhận!
+22:44:38 - Chuyển động được ghi nhận!
+22:44:40 - Chuyển động được ghi nhận!
+22:44:44 - Chuyển động được ghi nhận!
+22:44:46 - Chuyển động được ghi nhận!
+22:44:48 - Chuyển động được ghi nhận!
+22:44:50 - Chuyển động được ghi nhận!
+22:44:52 - Chuyển động được ghi nhận!
+22:44:54 - Chuyển động được ghi nhận!
+22:50:12 - Chuyển động được ghi nhận!
+22:50:14 - Chuyển động được ghi nhận!
+22:50:18 - Chuyển động được ghi nhận!
+22:50:20 - Chuyển động được ghi nhận!
+22:50:23 - Chuyển động được ghi nhận!
+22:50:25 - Chuyển động được ghi nhận!
+22:50:25 - Phát hiện thú cưng: cat (0.82)
+22:50:26 - Phát hiện thú cưng: cat (0.57)
+22:50:26 - Phát hiện thú cưng: cat (0.86)
+22:50:26 - Phát hiện thú cưng: cat (0.77)
+22:50:26 - Phát hiện thú cưng: cat (0.59)
+22:50:26 - Phát hiện thú cưng: cat (0.68)
+22:50:26 - Phát hiện thú cưng: cat (0.68)
+22:50:26 - Phát hiện thú cưng: cat (0.63)
+22:50:27 - Phát hiện thú cưng: cat (0.75)
+22:50:27 - Phát hiện thú cưng: cat (0.80)
+22:50:27 - Chuyển động được ghi nhận!
+22:50:27 - Phát hiện thú cưng: cat (0.77)
+22:50:27 - Phát hiện thú cưng: cat (0.61)
+22:50:27 - Phát hiện thú cưng: cat (0.70)
+22:50:28 - Phát hiện thú cưng: cat (0.65)
+22:50:28 - Phát hiện thú cưng: cat (0.53)
+22:50:28 - Phát hiện thú cưng: cat (0.66)
+22:50:28 - Phát hiện thú cưng: cat (0.83)
+22:50:28 - Phát hiện thú cưng: cat (0.76)
+22:50:29 - Phát hiện thú cưng: cat (0.70)
+22:50:29 - Phát hiện thú cưng: cat (0.73)
+22:50:29 - Phát hiện thú cưng: cat (0.30)
+22:50:29 - Phát hiện thú cưng: cat (0.60)
+22:50:29 - Chuyển động được ghi nhận!
+22:50:29 - Phát hiện thú cưng: cat (0.62)
+22:50:29 - Phát hiện thú cưng: cat (0.27)
+22:50:29 - Phát hiện thú cưng: cat (0.78)
+22:50:29 - Phát hiện thú cưng: cat (0.80)
+22:50:30 - Phát hiện thú cưng: cat (0.73)
+22:50:30 - Phát hiện thú cưng: cat (0.71)
+22:50:30 - Phát hiện thú cưng: cat (0.82)
+22:50:30 - Phát hiện thú cưng: cat (0.83)
+22:50:30 - Phát hiện thú cưng: cat (0.77)
+22:50:30 - Phát hiện thú cưng: cat (0.77)
+22:50:30 - Phát hiện thú cưng: cat (0.81)
+22:50:31 - Phát hiện thú cưng: cat (0.71)
+22:50:31 - Phát hiện thú cưng: cat (0.66)
+22:50:31 - Phát hiện thú cưng: cat (0.65)
+22:50:31 - Phát hiện thú cưng: cat (0.73)
+22:50:31 - Chuyển động được ghi nhận!
+22:50:31 - Phát hiện thú cưng: cat (0.52)
+22:50:32 - Phát hiện thú cưng: cat (0.70)
+22:50:32 - Phát hiện thú cưng: cat (0.67)
+22:50:32 - Phát hiện thú cưng: cat (0.35)
+22:50:33 - Phát hiện thú cưng: cat (0.85)
+22:50:33 - Chuyển động được ghi nhận!
+22:50:34 - Phát hiện thú cưng: cat (0.63)
+22:50:35 - Phát hiện thú cưng: cat (0.58)
+22:50:35 - Phát hiện thú cưng: cat (0.65)
+22:50:35 - Phát hiện thú cưng: cat (0.68)
+22:50:35 - Phát hiện thú cưng: cat (0.79)
+22:50:35 - Phát hiện thú cưng: cat (0.74)
+22:50:35 - Phát hiện thú cưng: cat (0.70)
+22:50:35 - Phát hiện thú cưng: cat (0.76)
+22:50:36 - Phát hiện thú cưng: cat (0.82)
+22:50:36 - Chuyển động được ghi nhận!
+22:50:36 - Phát hiện thú cưng: cat (0.81)
+22:50:36 - Phát hiện thú cưng: cat (0.78)
+22:50:36 - Phát hiện thú cưng: cat (0.80)
+22:50:36 - Phát hiện thú cưng: cat (0.79)
+22:50:36 - Phát hiện thú cưng: cat (0.84)
+22:50:36 - Phát hiện thú cưng: cat (0.78)
+22:50:37 - Phát hiện thú cưng: cat (0.80)
+22:50:37 - Phát hiện thú cưng: cat (0.81)
+22:50:37 - Phát hiện thú cưng: cat (0.68)
+22:50:37 - Phát hiện thú cưng: cat (0.67)
+22:50:37 - Phát hiện thú cưng: cat (0.74)
+22:50:37 - Phát hiện thú cưng: cat (0.65)
+22:50:37 - Phát hiện thú cưng: cat (0.66)
+22:50:37 - Phát hiện thú cưng: cat (0.81)
+22:50:38 - Phát hiện thú cưng: cat (0.85)
+22:50:38 - Chuyển động được ghi nhận!
+22:50:38 - Phát hiện thú cưng: cat (0.74)
+22:50:38 - Phát hiện thú cưng: cat (0.63)
+22:50:38 - Phát hiện thú cưng: cat (0.80)
+22:50:39 - Phát hiện thú cưng: cat (0.70)
+22:50:39 - Phát hiện thú cưng: cat (0.53)
+22:50:39 - Phát hiện thú cưng: cat (0.72)
+22:50:42 - Chuyển động được ghi nhận!
+22:50:44 - Chuyển động được ghi nhận!
+22:50:46 - Chuyển động được ghi nhận!
+22:50:49 - Chuyển động được ghi nhận!
+22:50:51 - Phát hiện thú cưng: dog (0.77)
+22:50:51 - Chuyển động được ghi nhận!
+22:50:52 - Phát hiện thú cưng: dog (0.90)
+22:50:52 - Phát hiện thú cưng: dog (0.90)
+22:50:52 - Phát hiện thú cưng: dog (0.44)
+22:50:52 - Phát hiện thú cưng: dog (0.89)
+22:50:52 - Phát hiện thú cưng: dog (0.86)
+22:50:53 - Phát hiện thú cưng: dog (0.38)
+22:50:53 - Phát hiện thú cưng: dog (0.90)
+22:50:53 - Phát hiện thú cưng: dog (0.75)
+22:50:53 - Phát hiện thú cưng: dog (0.90)
+22:50:53 - Phát hiện thú cưng: dog (0.90)
+22:50:53 - Chuyển động được ghi nhận!
+22:50:54 - Phát hiện thú cưng: dog (0.71)
+22:50:54 - Phát hiện thú cưng: dog (0.88)
+22:50:54 - Phát hiện thú cưng: dog (0.89)
+22:50:54 - Phát hiện thú cưng: dog (0.88)
+22:50:55 - Phát hiện thú cưng: dog (0.89)
+22:50:55 - Phát hiện thú cưng: dog (0.88)
+22:50:55 - Phát hiện thú cưng: dog (0.84)
+22:50:55 - Phát hiện thú cưng: dog (0.86)
+22:50:55 - Phát hiện thú cưng: dog (0.88)
+22:50:55 - Phát hiện thú cưng: dog (0.83)
+22:50:56 - Phát hiện thú cưng: dog (0.88)
+22:50:56 - Chuyển động được ghi nhận!
+22:50:56 - Phát hiện thú cưng: dog (0.36)
+22:50:58 - Chuyển động được ghi nhận!
+22:51:00 - Chuyển động được ghi nhận!
+22:51:02 - Chuyển động được ghi nhận!
+22:51:04 - Chuyển động được ghi nhận!
+22:51:07 - Chuyển động được ghi nhận!
+22:51:10 - Chuyển động được ghi nhận!
+22:51:11 - Phát hiện thú cưng: dog (0.33)
+22:51:12 - Chuyển động được ghi nhận!
+22:51:14 - Phát hiện thú cưng: dog (0.58)
+22:51:14 - Chuyển động được ghi nhận!
+22:51:14 - Phát hiện thú cưng: dog (0.81)
+22:51:15 - Phát hiện thú cưng: dog (0.86)
+22:51:15 - Phát hiện thú cưng: dog (0.74)
+22:51:15 - Phát hiện thú cưng: dog (0.72)
+22:51:15 - Phát hiện thú cưng: dog (0.78)
+22:51:15 - Phát hiện thú cưng: dog (0.83)
+22:51:15 - Phát hiện thú cưng: dog (0.65)
+22:51:15 - Phát hiện thú cưng: dog (0.78)
+22:51:15 - Phát hiện thú cưng: dog (0.89)
+22:51:16 - Phát hiện thú cưng: dog (0.88)
+22:51:16 - Phát hiện thú cưng: dog (0.86)
+22:51:16 - Phát hiện thú cưng: dog (0.87)
+22:51:16 - Phát hiện thú cưng: dog (0.72)
+22:51:16 - Chuyển động được ghi nhận!
+22:51:16 - Phát hiện thú cưng: dog (0.39)
+22:51:16 - Phát hiện thú cưng: dog (0.39)
+22:51:17 - Phát hiện thú cưng: dog (0.70)
+22:51:17 - Phát hiện thú cưng: dog (0.40)
+22:51:17 - Phát hiện thú cưng: dog (0.77)
+22:51:17 - Phát hiện thú cưng: dog (0.66)
+22:51:17 - Phát hiện thú cưng: dog (0.75)
+22:51:17 - Phát hiện thú cưng: dog (0.88)
+22:51:18 - Phát hiện thú cưng: dog (0.39)
+22:51:18 - Phát hiện thú cưng: dog (0.64)
+22:51:18 - Chuyển động được ghi nhận!
+22:51:18 - Phát hiện thú cưng: dog (0.45)
+22:51:18 - Phát hiện thú cưng: dog (0.67)
+22:51:18 - Phát hiện thú cưng: dog (0.37)
+22:51:19 - Phát hiện thú cưng: dog (0.63)
+22:51:19 - Phát hiện thú cưng: dog (0.78)
+22:51:19 - Phát hiện thú cưng: dog (0.47)
+22:51:19 - Phát hiện thú cưng: dog (0.69)
+22:51:20 - Phát hiện thú cưng: dog (0.63)
+22:51:20 - Phát hiện thú cưng: dog (0.80)
+22:51:20 - Phát hiện thú cưng: dog (0.34)
+22:51:20 - Phát hiện thú cưng: dog (0.79)
+22:51:20 - Phát hiện thú cưng: dog (0.67)
+22:51:21 - Phát hiện thú cưng: dog (0.33)
+22:51:21 - Phát hiện thú cưng: dog (0.49)
+22:51:21 - Phát hiện thú cưng: dog (0.69)
+22:51:21 - Chuyển động được ghi nhận!
+22:51:21 - Phát hiện thú cưng: dog (0.62)
+22:51:21 - Phát hiện thú cưng: dog (0.75)
+22:51:21 - Phát hiện thú cưng: dog (0.71)
+22:51:21 - Phát hiện thú cưng: dog (0.83)
+22:51:23 - Chuyển động được ghi nhận!
+22:51:25 - Chuyển động được ghi nhận!
+22:51:26 - Phát hiện thú cưng: dog (0.71)
+22:51:26 - Phát hiện thú cưng: dog (0.78)
+22:51:26 - Phát hiện thú cưng: dog (0.88)
+22:51:26 - Phát hiện thú cưng: dog (0.90)
+22:51:26 - Phát hiện thú cưng: dog (0.89)
+22:51:26 - Phát hiện thú cưng: dog (0.90)
+22:51:27 - Phát hiện thú cưng: dog (0.93)
+22:51:27 - Phát hiện thú cưng: dog (0.92)
+22:51:27 - Phát hiện thú cưng: dog (0.93)
+22:51:27 - Phát hiện thú cưng: dog (0.93)
+22:51:27 - Phát hiện thú cưng: dog (0.93)
+22:51:27 - Phát hiện thú cưng: dog (0.93)
+22:51:27 - Phát hiện thú cưng: dog (0.92)
+22:51:28 - Phát hiện thú cưng: dog (0.93)
+22:51:28 - Phát hiện thú cưng: dog (0.93)
+22:51:28 - Phát hiện thú cưng: dog (0.91)
+22:51:28 - Phát hiện thú cưng: dog (0.93)
+22:51:28 - Phát hiện thú cưng: dog (0.92)
+22:51:28 - Phát hiện thú cưng: dog (0.91)
+22:51:28 - Phát hiện thú cưng: dog (0.92)
+22:51:28 - Phát hiện thú cưng: dog (0.93)
+22:51:29 - Phát hiện thú cưng: dog (0.92)
+22:51:29 - Chuyển động được ghi nhận!
+22:51:29 - Phát hiện thú cưng: dog (0.93)
+22:51:29 - Phát hiện thú cưng: dog (0.86)
+23:04:53 - Chuyển động (Camera)
+23:04:53 - Chuyển động (Camera)
+23:04:53 - Chuyển động (Camera)
+23:04:53 - Chuyển động (Camera)
+23:04:53 - Chuyển động (Camera)
+23:04:53 - Chuyển động (Camera)
+23:04:54 - Chuyển động (Camera)
+23:04:54 - Chuyển động (Camera)
+23:04:54 - Chuyển động (Camera)
+23:04:54 - Chuyển động (Camera)
+23:04:54 - Chuyển động (Camera)
+23:04:54 - Chuyển động (Camera)
+23:04:54 - Chuyển động (Camera)
+23:04:55 - Chuyển động (Camera)
+23:04:55 - Chuyển động (Camera)
+23:04:55 - Chuyển động (Camera)
+23:04:55 - Chuyển động (Camera)
+23:04:55 - Chuyển động (Camera)
+23:04:56 - Chuyển động (Camera)
+23:04:57 - Chuyển động (Camera)
+23:04:57 - Chuyển động (Camera)
+23:04:57 - Chuyển động (Camera)
+23:04:57 - Chuyển động (Camera)
+23:04:57 - Chuyển động (Camera)
+23:04:58 - Chuyển động (Camera)
+23:04:58 - Chuyển động (Camera)
+23:04:58 - Chuyển động (Camera)
+23:04:58 - Chuyển động (Camera)
+23:04:58 - Chuyển động (Camera)
+23:04:58 - Chuyển động (Camera)
+23:04:58 - Chuyển động (Camera)
+23:04:59 - Chuyển động (Camera)
+23:04:59 - Chuyển động (Camera)
+23:04:59 - Chuyển động (Camera)
+23:04:59 - Phát hiện thú cưng: dog (0.73)
+23:04:59 - Chuyển động (Camera)
+23:04:59 - Phát hiện thú cưng: dog (0.69)
+23:04:59 - Chuyển động (Camera)
+23:04:59 - Phát hiện thú cưng: dog (0.82)
+23:04:59 - Chuyển động (Camera)
+23:05:00 - Phát hiện thú cưng: dog (0.82)
+23:05:00 - Chuyển động (Camera)
+23:05:00 - Phát hiện thú cưng: dog (0.85)
+23:05:00 - Chuyển động (Camera)
+23:05:00 - Phát hiện thú cưng: dog (0.87)
+23:05:00 - Phát hiện thú cưng: dog (0.87)
+23:05:00 - Chuyển động (Camera)
+23:05:00 - Phát hiện thú cưng: dog (0.82)
+23:05:00 - Chuyển động (Camera)
+23:05:00 - Phát hiện thú cưng: dog (0.80)
+23:05:00 - Chuyển động (Camera)
+23:05:00 - Phát hiện thú cưng: dog (0.85)
+23:05:01 - Chuyển động (Camera)
+23:05:01 - Chuyển động (Camera)
+23:05:01 - Phát hiện thú cưng: dog (0.48)
+23:05:01 - Chuyển động (Camera)
+23:05:01 - Phát hiện thú cưng: dog (0.88)
+23:05:01 - Phát hiện thú cưng: dog (0.88)
+23:05:01 - Chuyển động (Camera)
+23:05:01 - Phát hiện thú cưng: dog (0.79)
+23:05:01 - Chuyển động (Camera)
+23:05:02 - Chuyển động (Camera)
+23:05:02 - Phát hiện thú cưng: dog (0.89)
+23:05:02 - Chuyển động (Camera)
+23:05:02 - Phát hiện thú cưng: dog (0.91)
+23:05:02 - Chuyển động (Camera)
+23:05:02 - Phát hiện thú cưng: dog (0.84)
+23:05:02 - Chuyển động (Camera)
+23:05:02 - Phát hiện thú cưng: dog (0.86)
+23:05:02 - Chuyển động (Camera)
+23:05:02 - Phát hiện thú cưng: dog (0.86)
+23:05:02 - Chuyển động (Camera)
+23:05:03 - Phát hiện thú cưng: dog (0.87)
+23:05:03 - Chuyển động (Camera)
+23:05:03 - Phát hiện thú cưng: dog (0.77)
+23:05:03 - Chuyển động (Camera)
+23:05:03 - Phát hiện thú cưng: dog (0.87)
+23:05:03 - Phát hiện thú cưng: dog (0.76)
+23:05:03 - Chuyển động (Camera)
+23:05:03 - Chuyển động (Camera)
+23:05:03 - Chuyển động (Camera)
+23:05:04 - Chuyển động (Camera)
+23:05:04 - Chuyển động (Camera)
+23:05:04 - Chuyển động (Camera)
+23:05:04 - Chuyển động (Camera)
+23:05:04 - Chuyển động (Camera)
+23:05:06 - Chuyển động (Camera)
+23:05:06 - Chuyển động (Camera)
+23:05:07 - Chuyển động (Camera)
+23:05:07 - Chuyển động (Camera)
+23:05:07 - Chuyển động (Camera)
+23:05:11 - Chuyển động (Camera)
+23:05:12 - Chuyển động (Camera)
+23:05:20 - Chuyển động (Camera)
+23:05:20 - Chuyển động (Camera)
+23:05:20 - Chuyển động (Camera)
+23:05:21 - Chuyển động (Camera)
+23:05:21 - Chuyển động (Camera)
+23:05:21 - Chuyển động (Camera)
+23:05:21 - Chuyển động (Camera)
+23:05:21 - Chuyển động (Camera)
+23:05:21 - Chuyển động (Camera)
+23:05:22 - Chuyển động (Camera)
+23:05:22 - Chuyển động (Camera)
+23:05:22 - Chuyển động (Camera)
+23:05:22 - Phát hiện thú cưng: dog (0.58)
+23:05:22 - Chuyển động (Camera)
+23:05:22 - Chuyển động (Camera)
+23:05:22 - Chuyển động (Camera)
+23:05:23 - Chuyển động (Camera)
+23:05:23 - Phát hiện thú cưng: dog (0.84)
+23:05:23 - Chuyển động (Camera)
+23:05:23 - Phát hiện thú cưng: dog (0.75)
+23:05:23 - Chuyển động (Camera)
+23:05:23 - Phát hiện thú cưng: dog (0.74)
+23:05:23 - Chuyển động (Camera)
+23:05:23 - Phát hiện thú cưng: dog (0.59)
+23:05:23 - Chuyển động (Camera)
+23:05:24 - Chuyển động (Camera)
+23:05:24 - Chuyển động (Camera)
+23:05:24 - Chuyển động (Camera)
+23:05:24 - Chuyển động (Camera)
+23:05:24 - Chuyển động (Camera)
+23:05:25 - Chuyển động (Camera)
+23:05:25 - Chuyển động (Camera)
+23:05:25 - Chuyển động (Camera)
+23:05:25 - Chuyển động (Camera)
+23:05:25 - Chuyển động (Camera)
+23:05:26 - Chuyển động (Camera)
+23:05:26 - Chuyển động (Camera)
+23:05:26 - Chuyển động (Camera)
+23:05:27 - Chuyển động (Camera)
+23:05:27 - Chuyển động (Camera)
+23:05:29 - Chuyển động (Camera)
+23:05:29 - Chuyển động (Camera)
+23:05:29 - Chuyển động (Camera)
+23:09:41 - Chuyển động (Camera)
+23:09:43 - Chuyển động (Camera)
+23:09:43 - Chuyển động (Camera)
+23:09:43 - Chuyển động (Camera)
+23:09:43 - Chuyển động (Camera)
+23:09:43 - Chuyển động (Camera)
+23:09:47 - Chuyển động (Camera)
+23:09:47 - Chuyển động (Camera)
+23:09:48 - Chuyển động (Camera)
+23:09:48 - Chuyển động (Camera)
+23:09:48 - Chuyển động (Camera)
+23:09:48 - Chuyển động (Camera)
+23:09:48 - Chuyển động (Camera)
+23:09:48 - Chuyển động (Camera)
+23:09:49 - Chuyển động (Camera)
+23:09:49 - Chuyển động (Camera)
+23:09:49 - Chuyển động (Camera)
+23:09:49 - Chuyển động (Camera)
+23:09:57 - Chuyển động (Camera)
+23:09:57 - Chuyển động (Camera)
+23:09:57 - Chuyển động (Camera)
+23:09:58 - Chuyển động (Camera)
+23:09:58 - Chuyển động (Camera)
+23:10:01 - Chuyển động (Camera)
+23:10:03 - Chuyển động (Camera)
+23:10:04 - Chuyển động (Camera)
+23:10:04 - Chuyển động (Camera)
+23:10:04 - Chuyển động (Camera)
+23:10:04 - Chuyển động (Camera)
+23:10:17 - Chuyển động (Camera)
+23:10:18 - Chuyển động (Camera)
+23:10:19 - Chuyển động (Camera)
+23:10:20 - Chuyển động (Camera)
+23:10:21 - Chuyển động (Camera)
+23:10:22 - Chuyển động (Camera)
+23:10:22 - Chuyển động (Camera)
+23:10:22 - Chuyển động (Camera)
+23:10:22 - Chuyển động (Camera)
+23:10:22 - Chuyển động (Camera)
+23:10:22 - Chuyển động (Camera)
+23:10:22 - Phát hiện thú cưng: dog (0.31)
+23:10:22 - Chuyển động (Camera)
+23:10:23 - Phát hiện thú cưng: dog (0.42)
+23:10:23 - Chuyển động (Camera)
+23:10:23 - Phát hiện thú cưng: dog (0.58)
+23:10:23 - Chuyển động (Camera)
+23:10:23 - Phát hiện thú cưng: dog (0.89)
+23:10:23 - Chuyển động (Camera)
+23:10:23 - Phát hiện thú cưng: dog (0.86)
+23:10:23 - Chuyển động (Camera)
+23:10:23 - Phát hiện thú cưng: dog (0.88)
+23:10:23 - Chuyển động (Camera)
+23:10:23 - Phát hiện thú cưng: dog (0.91)
+23:10:23 - Chuyển động (Camera)
+23:10:23 - Phát hiện thú cưng: dog (0.93)
+23:10:24 - Chuyển động (Camera)
+23:10:24 - Phát hiện thú cưng: dog (0.91)
+23:10:24 - Chuyển động (Camera)
+23:10:24 - Phát hiện thú cưng: dog (0.93)
+23:10:24 - Phát hiện thú cưng: dog (0.92)
+23:10:24 - Chuyển động (Camera)
+23:10:24 - Phát hiện thú cưng: dog (0.92)
+23:10:24 - Chuyển động (Camera)
+23:10:24 - Phát hiện thú cưng: dog (0.92)
+23:10:24 - Chuyển động (Camera)
+23:10:24 - Phát hiện thú cưng: dog (0.92)
+23:10:24 - Chuyển động (Camera)
+23:10:24 - Phát hiện thú cưng: dog (0.92)
+23:10:24 - Chuyển động (Camera)
+23:10:25 - Phát hiện thú cưng: dog (0.93)
+23:10:25 - Chuyển động (Camera)
+23:10:25 - Phát hiện thú cưng: dog (0.85)
+23:10:25 - Chuyển động (Camera)
+23:10:25 - Phát hiện thú cưng: dog (0.86)
+23:10:25 - Chuyển động (Camera)
+23:10:25 - Phát hiện thú cưng: dog (0.86)
+23:10:25 - Chuyển động (Camera)
+23:10:25 - Phát hiện thú cưng: dog (0.35)
+23:10:25 - Chuyển động (Camera)
+23:10:25 - Phát hiện thú cưng: dog (0.84)
+23:10:25 - Chuyển động (Camera)
+23:10:25 - Phát hiện thú cưng: dog (0.75)
+23:10:25 - Chuyển động (Camera)
+23:10:26 - Phát hiện thú cưng: dog (0.90)
+23:10:26 - Chuyển động (Camera)
+23:10:26 - Phát hiện thú cưng: dog (0.89)
+23:10:26 - Chuyển động (Camera)
+23:10:26 - Phát hiện thú cưng: dog (0.91)
+23:10:26 - Phát hiện thú cưng: dog (0.89)
+23:10:26 - Chuyển động (Camera)
+23:10:26 - Phát hiện thú cưng: dog (0.89)
+23:10:26 - Chuyển động (Camera)
+23:10:26 - Phát hiện thú cưng: dog (0.89)
+23:10:26 - Chuyển động (Camera)
+23:10:26 - Phát hiện thú cưng: dog (0.89)
+23:10:26 - Chuyển động (Camera)
+23:10:27 - Phát hiện thú cưng: dog (0.77)
+23:10:27 - Chuyển động (Camera)
+23:10:27 - Phát hiện thú cưng: dog (0.65)
+23:10:27 - Chuyển động (Camera)
+23:10:27 - Phát hiện thú cưng: dog (0.78)
+23:10:27 - Chuyển động (Camera)
+23:10:27 - Phát hiện thú cưng: dog (0.84)
+23:10:27 - Chuyển động (Camera)
+23:10:27 - Phát hiện thú cưng: dog (0.91)
+23:10:27 - Phát hiện thú cưng: dog (0.90)
+23:10:27 - Phát hiện thú cưng: dog (0.90)
+23:10:27 - Chuyển động (Camera)
+23:10:28 - Phát hiện thú cưng: dog (0.85)
+23:10:28 - Phát hiện thú cưng: dog (0.89)
+23:10:28 - Phát hiện thú cưng: dog (0.89)
+23:10:28 - Phát hiện thú cưng: dog (0.86)
+23:10:28 - Phát hiện thú cưng: dog (0.87)
+23:10:28 - Phát hiện thú cưng: dog (0.83)
+23:10:28 - Phát hiện thú cưng: dog (0.88)
+23:10:29 - Phát hiện thú cưng: dog (0.86)
+23:10:29 - Phát hiện thú cưng: dog (0.87)
+23:10:29 - Phát hiện thú cưng: dog (0.90)
+23:10:29 - Chuyển động (Camera)
+23:10:29 - Phát hiện thú cưng: dog (0.84)
+23:10:29 - Chuyển động (Camera)
+23:10:29 - Chuyển động (Camera)
+23:10:29 - Chuyển động (Camera)
+23:10:29 - Chuyển động (Camera)
+23:10:29 - Chuyển động (Camera)
+23:10:30 - Chuyển động (Camera)
+23:10:30 - Chuyển động (Camera)
+23:10:30 - Chuyển động (Camera)
+23:31:07 - RFID: quét thẻ CAT123 (Mô phỏng)
+23:31:07 - Chuyển động (Camera)
+23:31:11 - Chuyển động (Camera)
+23:31:11 - Chuyển động (Camera)
+23:31:11 - Chuyển động (Camera)
+23:31:12 - Chuyển động (Camera)
+23:31:12 - Chuyển động (Camera)
+23:31:12 - Chuyển động (Camera)
+23:31:12 - Chuyển động (Camera)
+23:31:12 - Chuyển động (Camera)
+23:31:12 - Chuyển động (Camera)
+23:31:12 - Chuyển động (Camera)
+23:31:12 - Chuyển động (Camera)
+23:31:25 - PIR: phát hiện chuyển động (Mô phỏng)
+23:31:30 - Chuyển động (Camera)
+23:31:30 - Chuyển động (Camera)
+23:31:30 - Chuyển động (Camera)
+23:31:30 - Chuyển động (Camera)
+23:31:30 - Chuyển động (Camera)
+23:31:31 - Chuyển động (Camera)
+23:31:31 - RFID: quét thẻ PET002 (Mô phỏng)
+23:31:31 - Chuyển động (Camera)
+23:31:31 - Chuyển động (Camera)
+23:31:31 - Chuyển động (Camera)
+23:31:31 - Chuyển động (Camera)
+23:31:31 - Chuyển động (Camera)
+23:31:32 - Chuyển động (Camera)
+23:31:32 - Chuyển động (Camera)
+23:31:32 - Chuyển động (Camera)
+23:31:32 - Chuyển động (Camera)
+23:31:32 - Chuyển động (Camera)
+23:31:33 - Chuyển động (Camera)
+23:31:33 - Chuyển động (Camera)
+23:31:33 - Chuyển động (Camera)
+23:31:33 - Chuyển động (Camera)
+23:31:33 - Chuyển động (Camera)
+23:31:33 - Chuyển động (Camera)
+23:31:34 - Chuyển động (Camera)
+23:31:34 - Chuyển động (Camera)
+23:31:34 - Chuyển động (Camera)
+23:31:34 - Chuyển động (Camera)
+23:31:34 - Chuyển động (Camera)
+23:31:34 - Chuyển động (Camera)
+23:31:34 - Chuyển động (Camera)
+23:31:35 - Chuyển động (Camera)
+23:31:35 - Chuyển động (Camera)
+23:31:35 - Chuyển động (Camera)
+23:31:36 - Chuyển động (Camera)
+23:31:36 - Chuyển động (Camera)
+23:31:36 - Chuyển động (Camera)
+23:31:36 - Chuyển động (Camera)
+23:31:36 - Chuyển động (Camera)
+23:31:36 - Chuyển động (Camera)
+23:31:36 - Chuyển động (Camera)
+23:31:36 - Chuyển động (Camera)
+23:31:37 - PIR: phát hiện chuyển động (Mô phỏng)
+23:31:37 - Chuyển động (Camera)
+23:31:37 - Chuyển động (Camera)
+23:31:37 - Chuyển động (Camera)
+23:31:37 - Chuyển động (Camera)
+23:31:37 - Chuyển động (Camera)
+23:31:37 - Chuyển động (Camera)
+23:31:38 - Chuyển động (Camera)
+23:31:38 - Chuyển động (Camera)
+23:31:38 - Chuyển động (Camera)
+23:31:38 - Chuyển động (Camera)
+23:31:38 - Chuyển động (Camera)
+23:31:39 - Chuyển động (Camera)
+23:31:39 - Chuyển động (Camera)
+23:31:39 - Chuyển động (Camera)
+23:31:39 - Chuyển động (Camera)
+23:31:39 - Chuyển động (Camera)
+23:31:39 - Chuyển động (Camera)
+23:31:39 - Chuyển động (Camera)
+23:31:39 - Chuyển động (Camera)
+23:31:40 - Chuyển động (Camera)
+23:31:40 - Chuyển động (Camera)
+23:31:40 - Chuyển động (Camera)
+23:31:40 - Chuyển động (Camera)
+23:31:40 - Chuyển động (Camera)
+23:31:40 - Chuyển động (Camera)
+23:31:40 - Chuyển động (Camera)
+23:31:41 - Chuyển động (Camera)
+23:31:41 - Chuyển động (Camera)
+23:31:41 - Chuyển động (Camera)
+23:31:41 - Chuyển động (Camera)
+23:31:41 - Chuyển động (Camera)
+23:31:41 - Chuyển động (Camera)
+23:31:41 - Chuyển động (Camera)
+23:31:42 - Chuyển động (Camera)
+23:31:42 - Chuyển động (Camera)
+23:31:42 - Chuyển động (Camera)
+23:31:42 - Chuyển động (Camera)
+23:31:42 - Chuyển động (Camera)
+23:31:42 - Chuyển động (Camera)
+23:31:42 - Chuyển động (Camera)
+23:31:43 - Chuyển động (Camera)
+23:31:43 - RFID: quét thẻ PET002 (Mô phỏng)
+23:31:43 - Chuyển động (Camera)
+23:31:43 - Chuyển động (Camera)
+23:31:43 - Chuyển động (Camera)
+23:31:43 - Chuyển động (Camera)
+23:31:43 - Chuyển động (Camera)
+23:31:44 - Chuyển động (Camera)
+23:31:44 - Chuyển động (Camera)
+23:31:44 - Chuyển động (Camera)
+23:31:44 - Chuyển động (Camera)
+23:31:44 - Chuyển động (Camera)
+23:31:44 - Chuyển động (Camera)
+23:31:44 - Chuyển động (Camera)
+23:31:45 - Chuyển động (Camera)
+23:31:45 - Chuyển động (Camera)
+23:31:45 - Chuyển động (Camera)
+23:31:45 - Chuyển động (Camera)
+23:31:45 - Chuyển động (Camera)
+23:31:46 - Chuyển động (Camera)
+23:31:46 - Chuyển động (Camera)
+23:31:46 - Chuyển động (Camera)
+23:31:46 - Chuyển động (Camera)
+23:31:47 - Chuyển động (Camera)
+23:31:47 - Chuyển động (Camera)
+23:31:47 - Chuyển động (Camera)
+23:31:47 - Chuyển động (Camera)
+23:31:47 - Chuyển động (Camera)
+23:31:47 - Chuyển động (Camera)
+23:31:47 - Chuyển động (Camera)
+23:31:48 - Chuyển động (Camera)
+23:31:48 - Chuyển động (Camera)
+23:31:50 - Chuyển động (Camera)
+23:31:50 - Chuyển động (Camera)
+23:31:50 - Chuyển động (Camera)
+23:31:50 - Chuyển động (Camera)
+23:31:51 - Chuyển động (Camera)
+23:31:51 - Chuyển động (Camera)
+23:31:51 - Chuyển động (Camera)
+23:31:51 - Chuyển động (Camera)
+23:31:51 - Chuyển động (Camera)
+23:31:51 - Chuyển động (Camera)
+23:31:51 - Chuyển động (Camera)
+23:31:52 - Chuyển động (Camera)
+23:31:52 - RFID: quét thẻ CAT123 (Mô phỏng)
+23:31:52 - Chuyển động (Camera)
+23:31:52 - Chuyển động (Camera)
+23:31:52 - Chuyển động (Camera)
+23:31:52 - Chuyển động (Camera)
+23:31:52 - Chuyển động (Camera)
+23:31:52 - Chuyển động (Camera)
+23:31:53 - Chuyển động (Camera)
+23:31:53 - Chuyển động (Camera)
+23:31:53 - Chuyển động (Camera)
+23:31:53 - Chuyển động (Camera)
+23:31:55 - RFID: quét thẻ DOG789 (Mô phỏng)
+23:32:01 - RFID: quét thẻ PET002 (Mô phỏng)
+23:32:04 - PIR: phát hiện chuyển động (Mô phỏng)
+23:32:06 - Chuyển động (Camera)
+23:32:06 - Chuyển động (Camera)
+23:32:07 - RFID: quét thẻ PET002 (Mô phỏng)
+23:32:07 - Chuyển động (Camera)
+23:32:07 - PHÁT HIỆN PET: cat (0.40)
+23:32:07 - Chuyển động (Camera)
+23:32:08 - Chuyển động (Camera)
+23:32:08 - Chuyển động (Camera)
+23:32:10 - PHÁT HIỆN PET: cat (0.29)
+23:32:11 - PHÁT HIỆN PET: cat (0.31)
+23:45:25 - RFID: thú cưng mang thẻ PET001
+23:45:28 - RFID: thú cưng mang thẻ PET001
+23:45:31 - RFID: thú cưng mang thẻ PET002
+23:45:43 - RFID: thú cưng mang thẻ PET002
+23:45:49 - RFID: thú cưng mang thẻ PET001
+23:45:55 - RFID: thú cưng mang thẻ PET002
+23:45:58 - RFID: thú cưng mang thẻ DOG789
+23:56:57 - PIR: phát hiện chuyển động
+23:56:58 - AI xác minh: Không phát hiện thú cưng
+23:56:58 - AI xác minh: Không phát hiện thú cưng
+23:56:58 - AI xác minh: Không phát hiện thú cưng
+23:56:58 - AI xác minh: Không phát hiện thú cưng
+23:56:58 - AI xác minh: Không phát hiện thú cưng
+23:56:58 - AI xác minh: Không phát hiện thú cưng
+23:56:58 - AI xác minh: Không phát hiện thú cưng
+23:56:58 - AI xác minh: Không phát hiện thú cưng
+23:56:58 - AI xác minh: Không phát hiện thú cưng
+23:56:58 - AI xác minh: Không phát hiện thú cưng
+23:56:58 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:56:59 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:00 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:01 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:02 - AI xác minh: Không phát hiện thú cưng
+23:57:03 - AI xác minh: Không phát hiện thú cưng
+23:57:03 - AI xác minh: Không phát hiện thú cưng
+23:57:03 - AI xác minh: Không phát hiện thú cưng
+23:57:03 - AI xác minh: Không phát hiện thú cưng
+23:57:03 - AI xác minh: Không phát hiện thú cưng
+23:57:03 - AI xác minh: Không phát hiện thú cưng
+23:57:03 - AI xác minh: Không phát hiện thú cưng
+23:57:03 - AI xác minh: Không phát hiện thú cưng
+23:57:03 - AI xác minh: Không phát hiện thú cưng
+23:57:03 - AI xác minh: Không phát hiện thú cưng
+23:57:03 - PIR: phát hiện chuyển động
+23:57:03 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:04 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:05 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:06 - AI xác minh: Không phát hiện thú cưng
+23:57:12 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:57:18 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:57:24 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:57:30 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:57:51 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:57:54 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:58:00 - PIR: phát hiện chuyển động
+23:58:01 - AI xác minh: Không phát hiện thú cưng
+23:58:01 - AI xác minh: Không phát hiện thú cưng
+23:58:01 - AI xác minh: Không phát hiện thú cưng
+23:58:01 - AI xác minh: Không phát hiện thú cưng
+23:58:01 - AI xác minh: Không phát hiện thú cưng
+23:58:01 - AI xác minh: Không phát hiện thú cưng
+23:58:01 - AI xác minh: Không phát hiện thú cưng
+23:58:02 - AI xác minh: Không phát hiện thú cưng
+23:58:02 - AI xác minh: Không phát hiện thú cưng
+23:58:02 - AI xác minh: Không phát hiện thú cưng
+23:58:02 - AI xác minh: Không phát hiện thú cưng
+23:58:02 - AI xác minh PET: cat (0.49)
+23:58:02 - AI xác minh: Không phát hiện thú cưng
+23:58:02 - AI xác minh PET: cat (0.74)
+23:58:03 - AI xác minh: Không phát hiện thú cưng
+23:58:03 - AI xác minh PET: dog (0.29)
+23:58:03 - AI xác minh PET: dog (0.27)
+23:58:03 - AI xác minh PET: cat (0.44)
+23:58:03 - AI xác minh PET: cat (0.45)
+23:58:03 - AI xác minh: Không phát hiện thú cưng
+23:58:03 - AI xác minh PET: cat (0.56)
+23:58:03 - AI xác minh PET: dog (0.29)
+23:58:03 - AI xác minh PET: cat (0.44)
+23:58:04 - AI xác minh PET: cat (0.32)
+23:58:04 - AI xác minh PET: cat (0.48)
+23:58:04 - AI xác minh PET: cat (0.45)
+23:58:04 - AI xác minh PET: dog (0.37)
+23:58:04 - AI xác minh PET: cat (0.34)
+23:58:04 - AI xác minh PET: dog (0.58)
+23:58:04 - AI xác minh PET: cat (0.28)
+23:58:04 - AI xác minh PET: dog (0.26)
+23:58:04 - AI xác minh PET: dog (0.44)
+23:58:05 - AI xác minh: Không phát hiện thú cưng
+23:58:05 - AI xác minh: Không phát hiện thú cưng
+23:58:05 - AI xác minh PET: cat (0.59)
+23:58:05 - AI xác minh PET: dog (0.29)
+23:58:05 - AI xác minh PET: dog (0.45)
+23:58:05 - AI xác minh PET: cat (0.31)
+23:58:05 - AI xác minh: Không phát hiện thú cưng
+23:58:05 - AI xác minh: Không phát hiện thú cưng
+23:58:05 - AI xác minh PET: dog (0.30)
+23:58:05 - AI xác minh: Không phát hiện thú cưng
+23:58:06 - AI xác minh: Không phát hiện thú cưng
+23:58:06 - AI xác minh PET: cat (0.26)
+23:58:06 - AI xác minh: Không phát hiện thú cưng
+23:58:06 - AI xác minh: Không phát hiện thú cưng
+23:58:06 - AI xác minh PET: dog (0.39)
+23:58:06 - AI xác minh PET: dog (0.37)
+23:58:06 - AI xác minh PET: dog (0.25)
+23:58:06 - AI xác minh: Không phát hiện thú cưng
+23:58:09 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:58:12 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:58:24 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:58:27 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:58:30 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:58:36 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:58:42 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:58:57 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:59:03 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:59:06 - PIR: phát hiện chuyển động
+23:59:07 - AI xác minh PET: cat (0.78)
+23:59:07 - AI xác minh PET: dog (0.76)
+23:59:07 - AI xác minh PET: dog (0.44)
+23:59:07 - AI xác minh PET: cat (0.83)
+23:59:07 - AI xác minh PET: cat (0.88)
+23:59:07 - AI xác minh PET: cat (0.86)
+23:59:07 - AI xác minh PET: cat (0.84)
+23:59:08 - AI xác minh PET: cat (0.84)
+23:59:08 - AI xác minh PET: cat (0.82)
+23:59:08 - AI xác minh PET: cat (0.87)
+23:59:08 - AI xác minh PET: cat (0.85)
+23:59:08 - AI xác minh PET: cat (0.86)
+23:59:08 - AI xác minh PET: cat (0.88)
+23:59:08 - AI xác minh PET: cat (0.83)
+23:59:08 - AI xác minh PET: cat (0.86)
+23:59:09 - AI xác minh PET: cat (0.88)
+23:59:09 - AI xác minh PET: cat (0.89)
+23:59:09 - AI xác minh PET: cat (0.80)
+23:59:09 - AI xác minh PET: cat (0.64)
+23:59:09 - AI xác minh PET: cat (0.84)
+23:59:09 - AI xác minh PET: dog (0.50)
+23:59:09 - AI xác minh PET: cat (0.89)
+23:59:09 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:59:10 - AI xác minh PET: cat (0.69)
+23:59:10 - AI xác minh PET: dog (0.27)
+23:59:10 - AI xác minh PET: cat (0.52)
+23:59:10 - AI xác minh PET: dog (0.51)
+23:59:10 - AI xác minh PET: cat (0.88)
+23:59:10 - AI xác minh PET: cat (0.89)
+23:59:10 - AI xác minh PET: cat (0.80)
+23:59:10 - AI xác minh PET: cat (0.86)
+23:59:10 - AI xác minh PET: cat (0.81)
+23:59:11 - AI xác minh PET: cat (0.65)
+23:59:11 - AI xác minh PET: cat (0.83)
+23:59:11 - AI xác minh PET: cat (0.87)
+23:59:11 - AI xác minh PET: cat (0.78)
+23:59:11 - AI xác minh PET: dog (0.58)
+23:59:11 - AI xác minh PET: cat (0.53)
+23:59:11 - AI xác minh: Không phát hiện thú cưng
+23:59:11 - AI xác minh PET: cat (0.60)
+23:59:12 - AI xác minh PET: cat (0.74)
+23:59:12 - AI xác minh: Không phát hiện thú cưng
+23:59:12 - AI xác minh PET: cat (0.73)
+23:59:12 - AI xác minh PET: cat (0.77)
+23:59:12 - AI xác minh PET: cat (0.74)
+23:59:12 - AI xác minh PET: cat (0.82)
+23:59:12 - AI xác minh PET: cat (0.78)
+23:59:13 - AI xác minh: Không phát hiện thú cưng
+23:59:13 - AI xác minh: Không phát hiện thú cưng
+23:59:13 - AI xác minh: Không phát hiện thú cưng
+23:59:13 - AI xác minh: Không phát hiện thú cưng
+23:59:13 - AI xác minh: Không phát hiện thú cưng
+23:59:13 - AI xác minh: Không phát hiện thú cưng
+23:59:14 - AI xác minh: Không phát hiện thú cưng
+23:59:14 - AI xác minh: Không phát hiện thú cưng
+23:59:14 - AI xác minh: Không phát hiện thú cưng
+23:59:14 - AI xác minh: Không phát hiện thú cưng
+23:59:14 - AI xác minh: Không phát hiện thú cưng
+23:59:15 - AI xác minh: Không phát hiện thú cưng
+23:59:15 - AI xác minh: Không phát hiện thú cưng
+23:59:15 - AI xác minh: Không phát hiện thú cưng
+23:59:15 - AI xác minh: Không phát hiện thú cưng
+23:59:15 - AI xác minh: Không phát hiện thú cưng
+23:59:15 - AI xác minh: Không phát hiện thú cưng
+23:59:15 - AI xác minh: Không phát hiện thú cưng
+23:59:16 - AI xác minh: Không phát hiện thú cưng
+23:59:16 - AI xác minh: Không phát hiện thú cưng
+23:59:16 - AI xác minh: Không phát hiện thú cưng
+23:59:16 - AI xác minh: Không phát hiện thú cưng
+23:59:16 - AI xác minh: Không phát hiện thú cưng
+23:59:16 - AI xác minh: Không phát hiện thú cưng
+23:59:16 - AI xác minh: Không phát hiện thú cưng
+23:59:17 - AI xác minh: Không phát hiện thú cưng
+23:59:17 - AI xác minh: Không phát hiện thú cưng
+23:59:17 - AI xác minh: Không phát hiện thú cưng
+23:59:17 - AI xác minh: Không phát hiện thú cưng
+23:59:17 - AI xác minh: Không phát hiện thú cưng
+23:59:17 - AI xác minh: Không phát hiện thú cưng
+23:59:17 - AI xác minh: Không phát hiện thú cưng
+23:59:18 - AI xác minh: Không phát hiện thú cưng
+23:59:18 - AI xác minh: Không phát hiện thú cưng
+23:59:18 - AI xác minh: Không phát hiện thú cưng
+23:59:18 - AI xác minh: Không phát hiện thú cưng
+23:59:18 - AI xác minh: Không phát hiện thú cưng
+23:59:18 - AI xác minh: Không phát hiện thú cưng
+23:59:18 - AI xác minh: Không phát hiện thú cưng
+23:59:18 - PIR: phát hiện chuyển động
+23:59:18 - AI xác minh: Không phát hiện thú cưng
+23:59:19 - AI xác minh: Không phát hiện thú cưng
+23:59:19 - AI xác minh: Không phát hiện thú cưng
+23:59:19 - AI xác minh: Không phát hiện thú cưng
+23:59:19 - AI xác minh: Không phát hiện thú cưng
+23:59:19 - AI xác minh: Không phát hiện thú cưng
+23:59:19 - AI xác minh: Không phát hiện thú cưng
+23:59:20 - AI xác minh: Không phát hiện thú cưng
+23:59:20 - AI xác minh: Không phát hiện thú cưng
+23:59:20 - AI xác minh: Không phát hiện thú cưng
+23:59:20 - AI xác minh: Không phát hiện thú cưng
+23:59:20 - AI xác minh: Không phát hiện thú cưng
+23:59:20 - AI xác minh: Không phát hiện thú cưng
+23:59:20 - AI xác minh: Không phát hiện thú cưng
+23:59:20 - AI xác minh: Không phát hiện thú cưng
+23:59:21 - AI xác minh: Không phát hiện thú cưng
+23:59:21 - AI xác minh: Không phát hiện thú cưng
+23:59:21 - AI xác minh: Không phát hiện thú cưng
+23:59:21 - AI xác minh: Không phát hiện thú cưng
+23:59:21 - AI xác minh: Không phát hiện thú cưng
+23:59:21 - AI xác minh: Không phát hiện thú cưng
+23:59:22 - AI xác minh: Không phát hiện thú cưng
+23:59:22 - AI xác minh: Không phát hiện thú cưng
+23:59:22 - AI xác minh: Không phát hiện thú cưng
+23:59:22 - AI xác minh: Không phát hiện thú cưng
+23:59:22 - AI xác minh: Không phát hiện thú cưng
+23:59:22 - AI xác minh: Không phát hiện thú cưng
+23:59:22 - AI xác minh: Không phát hiện thú cưng
+23:59:23 - AI xác minh: Không phát hiện thú cưng
+23:59:23 - AI xác minh: Không phát hiện thú cưng
+23:59:23 - AI xác minh: Không phát hiện thú cưng
+23:59:23 - AI xác minh: Không phát hiện thú cưng
+23:59:23 - AI xác minh: Không phát hiện thú cưng
+23:59:23 - AI xác minh: Không phát hiện thú cưng
+23:59:23 - AI xác minh: Không phát hiện thú cưng
+23:59:23 - AI xác minh: Không phát hiện thú cưng
+23:59:24 - AI xác minh: Không phát hiện thú cưng
+23:59:24 - AI xác minh: Không phát hiện thú cưng
+23:59:24 - AI xác minh: Không phát hiện thú cưng
+23:59:24 - AI xác minh: Không phát hiện thú cưng
+23:59:24 - AI xác minh: Không phát hiện thú cưng
+23:59:24 - AI xác minh: Không phát hiện thú cưng
+23:59:25 - AI xác minh: Không phát hiện thú cưng
+23:59:25 - AI xác minh: Không phát hiện thú cưng
+23:59:25 - AI xác minh: Không phát hiện thú cưng
+23:59:25 - AI xác minh: Không phát hiện thú cưng
+23:59:25 - AI xác minh: Không phát hiện thú cưng
+23:59:25 - AI xác minh: Không phát hiện thú cưng
+23:59:25 - AI xác minh: Không phát hiện thú cưng
+23:59:25 - AI xác minh PET: cat (0.35)
+23:59:26 - AI xác minh: Không phát hiện thú cưng
+23:59:26 - AI xác minh PET: dog (0.33)
+23:59:26 - AI xác minh: Không phát hiện thú cưng
+23:59:26 - AI xác minh: Không phát hiện thú cưng
+23:59:26 - AI xác minh: Không phát hiện thú cưng
+23:59:26 - AI xác minh: Không phát hiện thú cưng
+23:59:26 - AI xác minh: Không phát hiện thú cưng
+23:59:26 - AI xác minh: Không phát hiện thú cưng
+23:59:27 - AI xác minh: Không phát hiện thú cưng
+23:59:27 - AI xác minh: Không phát hiện thú cưng
+23:59:27 - AI xác minh: Không phát hiện thú cưng
+23:59:27 - AI xác minh: Không phát hiện thú cưng
+23:59:27 - AI xác minh: Không phát hiện thú cưng
+23:59:27 - AI xác minh: Không phát hiện thú cưng
+23:59:27 - AI xác minh: Không phát hiện thú cưng
+23:59:30 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+23:59:33 - PIR: phát hiện chuyển động
+23:59:34 - AI xác minh: Không phát hiện thú cưng
+23:59:34 - AI xác minh: Không phát hiện thú cưng
+23:59:34 - AI xác minh: Không phát hiện thú cưng
+23:59:34 - AI xác minh: Không phát hiện thú cưng
+23:59:34 - AI xác minh: Không phát hiện thú cưng
+23:59:34 - AI xác minh: Không phát hiện thú cưng
+23:59:35 - AI xác minh: Không phát hiện thú cưng
+23:59:35 - AI xác minh: Không phát hiện thú cưng
+23:59:35 - AI xác minh: Không phát hiện thú cưng
+23:59:35 - AI xác minh: Không phát hiện thú cưng
+23:59:35 - AI xác minh: Không phát hiện thú cưng
+23:59:35 - AI xác minh: Không phát hiện thú cưng
+23:59:35 - AI xác minh: Không phát hiện thú cưng
+23:59:35 - AI xác minh: Không phát hiện thú cưng
+23:59:36 - AI xác minh: Không phát hiện thú cưng
+23:59:36 - AI xác minh: Không phát hiện thú cưng
+23:59:36 - AI xác minh: Không phát hiện thú cưng
+23:59:36 - AI xác minh: Không phát hiện thú cưng
+23:59:36 - AI xác minh: Không phát hiện thú cưng
+23:59:36 - AI xác minh: Không phát hiện thú cưng
+23:59:36 - AI xác minh: Không phát hiện thú cưng
+23:59:36 - AI xác minh: Không phát hiện thú cưng
+23:59:37 - AI xác minh: Không phát hiện thú cưng
+23:59:37 - AI xác minh: Không phát hiện thú cưng
+23:59:37 - AI xác minh: Không phát hiện thú cưng
+23:59:37 - AI xác minh: Không phát hiện thú cưng
+23:59:37 - AI xác minh: Không phát hiện thú cưng
+23:59:37 - AI xác minh: Không phát hiện thú cưng
+23:59:37 - AI xác minh: Không phát hiện thú cưng
+23:59:37 - AI xác minh: Không phát hiện thú cưng
+23:59:38 - AI xác minh: Không phát hiện thú cưng
+23:59:38 - AI xác minh: Không phát hiện thú cưng
+23:59:38 - AI xác minh: Không phát hiện thú cưng
+23:59:38 - AI xác minh: Không phát hiện thú cưng
+23:59:38 - AI xác minh: Không phát hiện thú cưng
+23:59:38 - AI xác minh: Không phát hiện thú cưng
+23:59:38 - AI xác minh: Không phát hiện thú cưng
+23:59:38 - AI xác minh: Không phát hiện thú cưng
+23:59:39 - AI xác minh: Không phát hiện thú cưng
+23:59:39 - AI xác minh: Không phát hiện thú cưng
+23:59:39 - AI xác minh: Không phát hiện thú cưng
+23:59:39 - AI xác minh: Không phát hiện thú cưng
+23:59:39 - AI xác minh: Không phát hiện thú cưng
+23:59:39 - AI xác minh: Không phát hiện thú cưng
+23:59:39 - AI xác minh: Không phát hiện thú cưng
+23:59:40 - AI xác minh: Không phát hiện thú cưng
+23:59:40 - AI xác minh: Không phát hiện thú cưng
+23:59:40 - AI xác minh: Không phát hiện thú cưng
+23:59:40 - AI xác minh: Không phát hiện thú cưng
+23:59:40 - AI xác minh: Không phát hiện thú cưng
+23:59:40 - AI xác minh: Không phát hiện thú cưng
+23:59:40 - AI xác minh: Không phát hiện thú cưng
+23:59:41 - AI xác minh: Không phát hiện thú cưng
+23:59:41 - AI xác minh: Không phát hiện thú cưng
+23:59:41 - AI xác minh: Không phát hiện thú cưng
+23:59:41 - AI xác minh: Không phát hiện thú cưng
+23:59:41 - AI xác minh: Không phát hiện thú cưng
+23:59:41 - AI xác minh: Không phát hiện thú cưng
+23:59:41 - AI xác minh: Không phát hiện thú cưng
+23:59:42 - AI xác minh: Không phát hiện thú cưng
+23:59:42 - AI xác minh PET: cat (0.72)
+23:59:42 - AI xác minh: Không phát hiện thú cưng
+23:59:42 - AI xác minh PET: dog (0.28)
+23:59:42 - AI xác minh PET: cat (0.56)
+23:59:42 - PIR: phát hiện chuyển động
+23:59:43 - AI xác minh PET: cat (0.28)
+23:59:43 - AI xác minh PET: dog (0.26)
+23:59:43 - AI xác minh PET: dog (0.51)
+23:59:43 - AI xác minh PET: cat (0.60)
+23:59:43 - AI xác minh PET: cat (0.71)
+23:59:44 - AI xác minh PET: cat (0.77)
+23:59:44 - AI xác minh PET: cat (0.64)
+23:59:44 - AI xác minh PET: cat (0.68)
+23:59:44 - AI xác minh PET: dog (0.35)
+23:59:44 - AI xác minh PET: dog (0.60)
+23:59:45 - AI xác minh: Không phát hiện thú cưng
+23:59:45 - AI xác minh: Không phát hiện thú cưng
+23:59:45 - AI xác minh PET: cat (0.78)
+23:59:45 - AI xác minh PET: cat (0.79)
+23:59:45 - AI xác minh PET: cat (0.76)
+23:59:46 - AI xác minh PET: cat (0.65)
+23:59:46 - AI xác minh PET: cat (0.81)
+23:59:46 - AI xác minh PET: cat (0.79)
+23:59:46 - AI xác minh PET: cat (0.61)
+23:59:46 - AI xác minh PET: cat (0.73)
+23:59:47 - AI xác minh: Không phát hiện thú cưng
+23:59:47 - AI xác minh: Không phát hiện thú cưng
+23:59:47 - AI xác minh: Không phát hiện thú cưng
+23:59:47 - AI xác minh: Không phát hiện thú cưng
+23:59:48 - AI xác minh: Không phát hiện thú cưng
+23:59:48 - AI xác minh PET: dog (0.36)
+23:59:48 - AI xác minh PET: dog (0.65)
+23:59:48 - AI xác minh PET: cat (0.64)
+23:59:48 - AI xác minh: Không phát hiện thú cưng
+23:59:49 - AI xác minh: Không phát hiện thú cưng
+00:02:32 - PIR: phát hiện chuyển động
+00:02:33 - AI xác minh: Không phát hiện thú cưng
+00:02:33 - AI xác minh: Không phát hiện thú cưng
+00:02:33 - AI xác minh: Không phát hiện thú cưng
+00:02:33 - AI xác minh: Không phát hiện thú cưng
+00:02:33 - AI xác minh: Không phát hiện thú cưng
+00:02:33 - AI xác minh: Không phát hiện thú cưng
+00:02:33 - AI xác minh: Không phát hiện thú cưng
+00:02:33 - AI xác minh: Không phát hiện thú cưng
+00:02:33 - AI xác minh: Không phát hiện thú cưng
+00:02:33 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:34 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:35 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:36 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:37 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:38 - AI xác minh: Không phát hiện thú cưng
+00:02:39 - AI xác minh: Không phát hiện thú cưng
+00:02:39 - AI xác minh: Không phát hiện thú cưng
+00:02:39 - AI xác minh: Không phát hiện thú cưng
+00:02:39 - AI xác minh: Không phát hiện thú cưng
+00:02:39 - AI xác minh: Không phát hiện thú cưng
+00:02:39 - AI xác minh: Không phát hiện thú cưng
+00:02:39 - AI xác minh: Không phát hiện thú cưng
+00:02:39 - AI xác minh: Không phát hiện thú cưng
+00:02:39 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:40 - AI xác minh: Không phát hiện thú cưng
+00:02:41 - AI xác minh: Không phát hiện thú cưng
+00:02:41 - AI xác minh: Không phát hiện thú cưng
+00:02:41 - AI xác minh: Không phát hiện thú cưng
+00:02:41 - AI xác minh: Không phát hiện thú cưng
+00:02:41 - AI xác minh: Không phát hiện thú cưng
+00:02:41 - AI xác minh: Không phát hiện thú cưng
+00:02:41 - AI xác minh: Không phát hiện thú cưng
+00:02:41 - AI xác minh: Không phát hiện thú cưng
+00:02:41 - PIR: phát hiện chuyển động
+00:02:41 - AI xác minh: Không phát hiện thú cưng
+00:02:41 - AI xác minh: Không phát hiện thú cưng
+00:02:41 - AI xác minh: Không phát hiện thú cưng
+00:02:42 - AI xác minh: Không phát hiện thú cưng
+00:02:42 - AI xác minh: Không phát hiện thú cưng
+00:02:42 - AI xác minh: Không phát hiện thú cưng
+00:02:42 - AI xác minh: Không phát hiện thú cưng
+00:02:42 - AI xác minh: Không phát hiện thú cưng
+00:02:42 - AI xác minh: Không phát hiện thú cưng
+00:02:42 - AI xác minh: Không phát hiện thú cưng
+00:02:42 - AI xác minh: Không phát hiện thú cưng
+00:02:42 - AI xác minh: Không phát hiện thú cưng
+00:02:42 - AI xác minh: Không phát hiện thú cưng
+00:02:42 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:43 - AI xác minh: Không phát hiện thú cưng
+00:02:44 - AI xác minh: Không phát hiện thú cưng
+00:02:44 - AI xác minh: Không phát hiện thú cưng
+00:02:44 - AI xác minh: Không phát hiện thú cưng
+00:02:44 - AI xác minh: Không phát hiện thú cưng
+00:02:44 - AI xác minh: Không phát hiện thú cưng
+00:02:44 - AI xác minh: Không phát hiện thú cưng
+00:02:44 - AI xác minh: Không phát hiện thú cưng
+00:02:44 - AI xác minh: Không phát hiện thú cưng
+00:02:53 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:02:56 - PIR: phát hiện chuyển động
+00:02:56 - AI xác minh: Không phát hiện thú cưng
+00:02:56 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:57 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:58 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - PIR: phát hiện chuyển động
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:02:59 - AI xác minh: Không phát hiện thú cưng
+00:03:00 - AI xác minh: Không phát hiện thú cưng
+00:03:00 - AI xác minh: Không phát hiện thú cưng
+00:03:00 - AI xác minh: Không phát hiện thú cưng
+00:03:00 - AI xác minh: Không phát hiện thú cưng
+00:03:00 - AI xác minh: Không phát hiện thú cưng
+00:05:55 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:06:04 - PIR: phát hiện chuyển động
+00:06:04 - AI xác minh: Không phát hiện thú cưng
+00:06:09 - AI xác minh: Không phát hiện thú cưng
+00:06:13 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:06:14 - AI xác minh: Không phát hiện thú cưng
+00:06:19 - AI xác minh: Không phát hiện thú cưng
+00:06:22 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:06:24 - AI xác minh: Không phát hiện thú cưng
+00:06:25 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:06:28 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:06:29 - AI xác minh: Không phát hiện thú cưng
+00:06:34 - AI xác minh PET: dog (0.46)
+00:06:34 - AI xác minh PET: cat (0.31)
+00:06:34 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:06:34 - AI xác minh PET: dog (0.62)
+00:06:34 - AI xác minh PET: dog (0.47)
+00:06:34 - AI xác minh PET: dog (0.48)
+00:06:34 - AI xác minh PET: dog (0.61)
+00:06:35 - AI xác minh: Không phát hiện thú cưng
+00:06:35 - AI xác minh PET: dog (0.36)
+00:06:35 - AI xác minh PET: dog (0.47)
+00:06:36 - AI xác minh PET: dog (0.47)
+00:06:36 - AI xác minh PET: cat (0.35)
+00:06:36 - AI xác minh PET: dog (0.30)
+00:06:36 - AI xác minh PET: dog (0.74)
+00:06:36 - AI xác minh PET: dog (0.61)
+00:06:36 - AI xác minh PET: cat (0.41)
+00:06:36 - AI xác minh PET: dog (0.68)
+00:06:37 - AI xác minh PET: dog (0.69)
+00:06:37 - PIR: phát hiện chuyển động
+00:06:37 - AI xác minh PET: dog (0.65)
+00:06:37 - AI xác minh PET: dog (0.71)
+00:06:37 - AI xác minh PET: dog (0.32)
+00:06:38 - AI xác minh PET: dog (0.48)
+00:06:40 - AI xác minh: Không phát hiện thú cưng
+00:06:40 - PIR: phát hiện chuyển động
+00:06:43 - PIR: phát hiện chuyển động
+00:06:45 - AI xác minh: Không phát hiện thú cưng
+00:06:50 - AI xác minh: Không phát hiện thú cưng
+00:06:52 - PIR: phát hiện chuyển động
+00:06:55 - PIR: phát hiện chuyển động
+00:06:55 - AI xác minh: Không phát hiện thú cưng
+00:06:57 - AI xác minh PET: cat (0.35)
+00:06:57 - AI xác minh PET: cat (0.75)
+00:06:57 - AI xác minh PET: cat (0.44)
+00:06:57 - AI xác minh PET: cat (0.52)
+00:06:58 - AI xác minh PET: cat (0.52)
+00:06:58 - AI xác minh PET: cat (0.49)
+00:06:58 - AI xác minh PET: cat (0.61)
+00:07:04 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:07:07 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:07:16 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:07:19 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:07:22 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:07:28 - PIR: phát hiện chuyển động
+00:07:28 - AI xác minh PET: cat (0.74)
+00:07:28 - AI xác minh PET: cat (0.72)
+00:07:28 - AI xác minh PET: cat (0.76)
+00:07:28 - AI xác minh PET: dog (0.39)
+00:07:29 - AI xác minh: Không phát hiện thú cưng
+00:07:29 - AI xác minh PET: cat (0.74)
+00:07:29 - AI xác minh PET: cat (0.76)
+00:07:29 - AI xác minh PET: cat (0.68)
+00:07:29 - AI xác minh PET: cat (0.36)
+00:07:29 - AI xác minh PET: cat (0.70)
+00:07:30 - AI xác minh PET: cat (0.73)
+00:07:30 - AI xác minh PET: cat (0.71)
+00:07:30 - AI xác minh PET: cat (0.73)
+00:07:30 - AI xác minh PET: dog (0.31)
+00:07:30 - AI xác minh PET: cat (0.83)
+00:07:30 - AI xác minh PET: cat (0.49)
+00:07:31 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:07:32 - AI xác minh PET: cat (0.33)
+00:07:34 - AI xác minh: Không phát hiện thú cưng
+00:07:34 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:07:40 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:07:46 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:07:52 - PIR: phát hiện chuyển động
+00:07:52 - AI xác minh PET: cat (0.66)
+00:07:52 - AI xác minh PET: cat (0.46)
+00:07:52 - AI xác minh PET: cat (0.78)
+00:07:52 - AI xác minh PET: cat (0.81)
+00:07:52 - AI xác minh: Không phát hiện thú cưng
+00:07:53 - AI xác minh PET: cat (0.81)
+00:07:53 - AI xác minh PET: cat (0.77)
+00:07:53 - AI xác minh PET: cat (0.80)
+00:07:53 - AI xác minh PET: cat (0.75)
+00:07:53 - AI xác minh PET: cat (0.75)
+00:07:53 - AI xác minh PET: cat (0.70)
+00:07:53 - AI xác minh PET: cat (0.80)
+00:07:54 - AI xác minh PET: cat (0.78)
+00:07:54 - AI xác minh PET: cat (0.81)
+00:07:54 - AI xác minh PET: cat (0.80)
+00:07:54 - AI xác minh PET: cat (0.77)
+00:07:54 - AI xác minh PET: cat (0.82)
+00:07:54 - AI xác minh PET: cat (0.79)
+00:07:54 - AI xác minh PET: cat (0.78)
+00:07:54 - AI xác minh PET: cat (0.80)
+00:07:54 - AI xác minh PET: cat (0.82)
+00:07:55 - AI xác minh PET: cat (0.79)
+00:07:55 - AI xác minh PET: cat (0.81)
+00:07:55 - AI xác minh PET: cat (0.81)
+00:07:55 - AI xác minh PET: cat (0.77)
+00:07:55 - AI xác minh PET: cat (0.79)
+00:07:55 - AI xác minh PET: cat (0.79)
+00:07:55 - AI xác minh PET: cat (0.77)
+00:07:55 - AI xác minh PET: cat (0.78)
+00:07:56 - AI xác minh PET: cat (0.78)
+00:07:56 - AI xác minh PET: cat (0.79)
+00:07:56 - AI xác minh PET: cat (0.79)
+00:07:56 - AI xác minh PET: cat (0.81)
+00:07:56 - AI xác minh PET: cat (0.84)
+00:07:56 - AI xác minh PET: cat (0.82)
+00:07:56 - AI xác minh PET: cat (0.80)
+00:07:56 - AI xác minh PET: cat (0.80)
+00:07:57 - AI xác minh PET: cat (0.83)
+00:07:57 - AI xác minh PET: cat (0.84)
+00:07:57 - AI xác minh PET: cat (0.80)
+00:07:57 - AI xác minh PET: cat (0.79)
+00:07:57 - AI xác minh PET: cat (0.86)
+00:07:57 - AI xác minh PET: cat (0.85)
+00:07:57 - AI xác minh PET: cat (0.85)
+00:07:58 - AI xác minh: Không phát hiện thú cưng
+00:08:07 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:08:10 - PIR: phát hiện chuyển động
+00:08:10 - AI xác minh: Không phát hiện thú cưng
+00:08:13 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:08:15 - AI xác minh: Không phát hiện thú cưng
+00:08:16 - PIR: phát hiện chuyển động
+00:13:00 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:13:03 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:13:12 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:13:15 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:13:21 - PIR: phát hiện chuyển động
+00:13:21 - AI xác minh: Không phát hiện thú cưng
+00:13:26 - AI xác minh: Không phát hiện thú cưng
+00:21:09 - PIR: phát hiện chuyển động
+00:21:09 - AI xác minh: Không phát hiện thú cưng
+00:21:12 - PIR: phát hiện chuyển động
+00:21:14 - AI xác minh: Không phát hiện thú cưng
+00:21:18 - PIR: phát hiện chuyển động
+00:21:19 - AI xác minh: Không phát hiện thú cưng
+00:23:08 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:23:14 - PIR: phát hiện chuyển động
+00:23:15 - AI xác minh: Không phát hiện thú cưng
+00:23:17 - PIR: phát hiện chuyển động
+00:23:20 - AI xác minh: Không phát hiện thú cưng
+00:23:20 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:23:24 - PIR: phát hiện chuyển động
+00:23:25 - AI xác minh: Không phát hiện thú cưng
+00:23:27 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:23:30 - PIR: phát hiện chuyển động
+00:23:30 - AI xác minh: Không phát hiện thú cưng
+00:23:33 - PIR: phát hiện chuyển động
+00:23:35 - AI xác minh: Không phát hiện thú cưng
+00:23:42 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:23:57 - PIR: phát hiện chuyển động
+00:23:57 - AI xác minh: Không phát hiện thú cưng
+00:24:00 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:24:02 - AI xác minh: Không phát hiện thú cưng
+00:24:03 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:24:04 - AI xác minh PET: cat (0.76)
+00:24:04 - AI xác minh PET: cat (0.50)
+00:24:04 - AI xác minh PET: cat (0.30)
+00:24:04 - AI xác minh PET: cat (0.88)
+00:24:05 - AI xác minh PET: cat (0.40)
+00:24:06 - PIR: phát hiện chuyển động
+00:24:06 - AI xác minh PET: cat (0.75)
+00:24:07 - AI xác minh PET: cat (0.29)
+00:24:07 - AI xác minh PET: cat (0.28)
+00:24:07 - AI xác minh: Không phát hiện thú cưng
+00:24:07 - AI xác minh PET: cat (0.29)
+00:24:07 - AI xác minh PET: cat (0.44)
+00:24:08 - AI xác minh PET: cat (0.26)
+00:24:09 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:24:09 - AI xác minh PET: cat (0.44)
+00:24:09 - AI xác minh PET: cat (0.83)
+00:24:09 - AI xác minh PET: cat (0.71)
+00:24:09 - AI xác minh PET: cat (0.27)
+00:24:10 - AI xác minh PET: cat (0.36)
+00:24:10 - AI xác minh PET: cat (0.69)
+00:24:10 - AI xác minh PET: cat (0.41)
+00:24:10 - AI xác minh PET: cat (0.85)
+00:24:10 - AI xác minh PET: cat (0.35)
+00:24:10 - AI xác minh PET: cat (0.70)
+00:24:10 - AI xác minh PET: cat (0.37)
+00:24:10 - AI xác minh PET: cat (0.81)
+00:24:10 - AI xác minh PET: cat (0.37)
+00:24:10 - AI xác minh PET: cat (0.82)
+00:24:10 - AI xác minh PET: cat (0.36)
+00:24:10 - AI xác minh PET: cat (0.74)
+00:24:10 - AI xác minh PET: cat (0.37)
+00:24:11 - AI xác minh PET: cat (0.53)
+00:24:11 - AI xác minh PET: cat (0.76)
+00:24:11 - AI xác minh PET: cat (0.76)
+00:24:11 - AI xác minh PET: cat (0.41)
+00:24:11 - AI xác minh PET: cat (0.41)
+00:24:11 - AI xác minh PET: cat (0.61)
+00:24:11 - AI xác minh PET: cat (0.46)
+00:24:11 - AI xác minh PET: cat (0.35)
+00:24:11 - AI xác minh PET: cat (0.69)
+00:24:11 - AI xác minh PET: cat (0.31)
+00:24:12 - AI xác minh PET: cat (0.62)
+00:24:12 - PIR: phát hiện chuyển động
+00:24:12 - AI xác minh PET: cat (0.63)
+00:24:12 - AI xác minh PET: cat (0.26)
+00:24:12 - AI xác minh PET: cat (0.64)
+00:24:12 - AI xác minh PET: cat (0.47)
+00:24:12 - AI xác minh PET: cat (0.58)
+00:24:12 - AI xác minh PET: cat (0.35)
+00:24:12 - AI xác minh PET: cat (0.71)
+00:24:12 - AI xác minh PET: cat (0.47)
+00:24:12 - AI xác minh PET: cat (0.73)
+00:24:12 - AI xác minh PET: cat (0.39)
+00:24:12 - AI xác minh PET: cat (0.75)
+00:24:12 - AI xác minh PET: cat (0.36)
+00:24:12 - AI xác minh PET: cat (0.58)
+00:24:12 - AI xác minh PET: cat (0.41)
+00:24:13 - AI xác minh PET: cat (0.48)
+00:24:13 - AI xác minh PET: cat (0.76)
+00:24:13 - AI xác minh PET: cat (0.40)
+00:24:13 - AI xác minh PET: cat (0.76)
+00:24:13 - AI xác minh PET: cat (0.34)
+00:24:13 - AI xác minh PET: cat (0.76)
+00:24:13 - AI xác minh PET: cat (0.37)
+00:24:13 - AI xác minh PET: cat (0.38)
+00:24:13 - AI xác minh PET: cat (0.62)
+00:24:13 - AI xác minh PET: cat (0.35)
+00:24:13 - AI xác minh PET: cat (0.44)
+00:24:14 - AI xác minh PET: cat (0.70)
+00:24:14 - AI xác minh PET: cat (0.38)
+00:24:14 - AI xác minh PET: cat (0.71)
+00:24:14 - AI xác minh PET: cat (0.32)
+00:24:14 - AI xác minh PET: cat (0.59)
+00:24:14 - AI xác minh PET: cat (0.30)
+00:24:14 - AI xác minh PET: cat (0.69)
+00:24:14 - AI xác minh PET: cat (0.47)
+00:24:14 - AI xác minh PET: cat (0.66)
+00:24:14 - AI xác minh PET: cat (0.47)
+00:24:14 - AI xác minh: Không phát hiện thú cưng
+00:24:14 - AI xác minh PET: cat (0.59)
+00:24:15 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:24:15 - AI xác minh PET: cat (0.37)
+00:24:15 - AI xác minh PET: cat (0.65)
+00:24:15 - AI xác minh PET: cat (0.67)
+00:24:15 - AI xác minh PET: cat (0.38)
+00:24:15 - AI xác minh PET: cat (0.59)
+00:24:15 - AI xác minh PET: cat (0.31)
+00:24:15 - AI xác minh PET: cat (0.26)
+00:24:15 - AI xác minh PET: cat (0.62)
+00:24:15 - AI xác minh PET: cat (0.61)
+00:24:16 - AI xác minh PET: cat (0.53)
+00:24:16 - AI xác minh PET: cat (0.28)
+00:24:16 - AI xác minh PET: cat (0.25)
+00:24:16 - AI xác minh PET: cat (0.72)
+00:24:16 - AI xác minh PET: cat (0.64)
+00:24:16 - AI xác minh PET: cat (0.58)
+00:24:16 - AI xác minh PET: cat (0.53)
+00:24:16 - AI xác minh PET: cat (0.41)
+00:24:16 - AI xác minh PET: cat (0.34)
+00:24:16 - AI xác minh PET: cat (0.56)
+00:24:16 - AI xác minh PET: cat (0.43)
+00:24:16 - AI xác minh PET: cat (0.53)
+00:24:16 - AI xác minh PET: cat (0.45)
+00:24:17 - AI xác minh PET: cat (0.63)
+00:24:17 - AI xác minh PET: cat (0.56)
+00:24:17 - AI xác minh PET: cat (0.59)
+00:24:17 - AI xác minh PET: cat (0.53)
+00:24:17 - AI xác minh PET: cat (0.57)
+00:24:17 - AI xác minh PET: cat (0.57)
+00:24:17 - AI xác minh PET: cat (0.68)
+00:24:17 - AI xác minh PET: cat (0.68)
+00:24:17 - AI xác minh PET: cat (0.58)
+00:24:17 - AI xác minh PET: cat (0.56)
+00:24:17 - AI xác minh PET: cat (0.29)
+00:24:17 - AI xác minh PET: cat (0.43)
+00:24:17 - AI xác minh PET: cat (0.42)
+00:24:17 - AI xác minh PET: cat (0.66)
+00:24:18 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:24:18 - AI xác minh PET: cat (0.62)
+00:24:18 - AI xác minh PET: cat (0.77)
+00:24:18 - AI xác minh PET: cat (0.60)
+00:24:18 - AI xác minh PET: cat (0.35)
+00:24:18 - AI xác minh PET: cat (0.76)
+00:24:18 - AI xác minh PET: cat (0.36)
+00:24:18 - AI xác minh PET: cat (0.68)
+00:24:18 - AI xác minh PET: cat (0.55)
+00:24:18 - AI xác minh PET: cat (0.60)
+00:24:18 - AI xác minh PET: cat (0.42)
+00:24:19 - AI xác minh: Không phát hiện thú cưng
+00:24:21 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:24:24 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:24:24 - AI xác minh: Không phát hiện thú cưng
+00:24:36 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:24:42 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:24:51 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:24:54 - PIR: phát hiện chuyển động
+00:24:54 - AI xác minh: Không phát hiện thú cưng
+00:24:54 - AI xác minh PET: cat (0.68)
+00:24:55 - AI xác minh PET: cat (0.45)
+00:24:56 - AI xác minh PET: cat (0.32)
+00:24:56 - AI xác minh PET: cat (0.77)
+00:24:57 - AI xác minh PET: cat (0.52)
+00:24:58 - AI xác minh PET: cat (0.41)
+00:24:58 - AI xác minh PET: cat (0.41)
+00:24:58 - AI xác minh PET: cat (0.30)
+00:24:58 - AI xác minh PET: cat (0.53)
+00:24:59 - AI xác minh PET: cat (0.63)
+00:24:59 - AI xác minh PET: cat (0.72)
+00:24:59 - AI xác minh PET: cat (0.67)
+00:24:59 - AI xác minh PET: cat (0.46)
+00:24:59 - AI xác minh PET: cat (0.35)
+00:24:59 - AI xác minh PET: cat (0.55)
+00:24:59 - AI xác minh PET: cat (0.58)
+00:24:59 - AI xác minh PET: cat (0.38)
+00:24:59 - AI xác minh PET: cat (0.27)
+00:25:00 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:25:00 - AI xác minh PET: cat (0.53)
+00:25:00 - AI xác minh PET: cat (0.32)
+00:25:00 - AI xác minh PET: cat (0.49)
+00:25:00 - AI xác minh PET: cat (0.29)
+00:25:00 - AI xác minh: Không phát hiện thú cưng
+00:25:00 - AI xác minh PET: cat (0.60)
+00:25:00 - AI xác minh PET: cat (0.29)
+00:25:00 - AI xác minh PET: cat (0.28)
+00:25:01 - AI xác minh PET: cat (0.47)
+00:25:01 - AI xác minh PET: cat (0.34)
+00:25:01 - AI xác minh PET: cat (0.35)
+00:25:01 - AI xác minh PET: cat (0.37)
+00:25:01 - AI xác minh PET: cat (0.35)
+00:25:01 - AI xác minh PET: cat (0.53)
+00:25:02 - AI xác minh PET: cat (0.29)
+00:25:02 - AI xác minh PET: cat (0.43)
+00:25:02 - AI xác minh PET: cat (0.33)
+00:25:02 - AI xác minh PET: cat (0.28)
+00:25:02 - AI xác minh PET: cat (0.49)
+00:25:02 - AI xác minh PET: cat (0.34)
+00:25:03 - AI xác minh PET: cat (0.43)
+00:25:03 - AI xác minh PET: cat (0.51)
+00:25:03 - AI xác minh PET: cat (0.53)
+00:25:03 - AI xác minh PET: cat (0.59)
+00:25:03 - AI xác minh PET: cat (0.37)
+00:25:03 - AI xác minh PET: cat (0.43)
+00:25:03 - AI xác minh PET: cat (0.66)
+00:25:04 - AI xác minh PET: cat (0.67)
+00:25:04 - AI xác minh PET: cat (0.64)
+00:25:04 - AI xác minh PET: cat (0.52)
+00:25:04 - AI xác minh PET: cat (0.59)
+00:25:04 - AI xác minh PET: cat (0.55)
+00:25:04 - AI xác minh PET: cat (0.50)
+00:25:04 - AI xác minh PET: cat (0.62)
+00:25:04 - AI xác minh PET: cat (0.50)
+00:25:05 - AI xác minh PET: cat (0.47)
+00:25:05 - AI xác minh PET: cat (0.54)
+00:25:05 - AI xác minh PET: cat (0.29)
+00:25:05 - AI xác minh PET: cat (0.60)
+00:25:05 - AI xác minh PET: cat (0.67)
+00:25:05 - AI xác minh PET: cat (0.32)
+00:25:05 - AI xác minh PET: cat (0.65)
+00:25:05 - AI xác minh PET: cat (0.57)
+00:25:06 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:25:06 - AI xác minh PET: cat (0.58)
+00:25:06 - AI xác minh PET: cat (0.53)
+00:25:06 - AI xác minh PET: cat (0.41)
+00:25:06 - AI xác minh PET: cat (0.60)
+00:25:06 - AI xác minh PET: cat (0.48)
+00:25:06 - AI xác minh PET: cat (0.52)
+00:25:06 - AI xác minh PET: cat (0.48)
+00:25:06 - AI xác minh PET: cat (0.25)
+00:25:06 - AI xác minh PET: cat (0.35)
+00:25:07 - AI xác minh PET: cat (0.51)
+00:25:07 - AI xác minh PET: cat (0.73)
+00:25:07 - AI xác minh PET: cat (0.58)
+00:25:07 - AI xác minh: Không phát hiện thú cưng
+00:25:07 - AI xác minh PET: cat (0.60)
+00:25:07 - AI xác minh PET: cat (0.28)
+00:25:08 - AI xác minh PET: cat (0.60)
+00:25:08 - AI xác minh PET: cat (0.58)
+00:25:09 - PIR: phát hiện chuyển động
+00:25:09 - AI xác minh PET: cat (0.70)
+00:25:10 - AI xác minh PET: cat (0.68)
+00:25:10 - AI xác minh PET: cat (0.70)
+00:25:10 - AI xác minh PET: cat (0.73)
+00:25:10 - AI xác minh PET: cat (0.79)
+00:25:10 - AI xác minh PET: cat (0.70)
+00:25:11 - AI xác minh PET: cat (0.32)
+00:25:11 - AI xác minh PET: cat (0.74)
+00:25:11 - AI xác minh PET: cat (0.75)
+00:25:11 - AI xác minh PET: cat (0.70)
+00:25:11 - AI xác minh PET: cat (0.67)
+00:25:11 - AI xác minh PET: cat (0.63)
+00:25:11 - AI xác minh PET: cat (0.62)
+00:25:11 - AI xác minh PET: cat (0.72)
+00:25:11 - AI xác minh PET: cat (0.75)
+00:25:12 - AI xác minh PET: cat (0.78)
+00:25:12 - AI xác minh PET: cat (0.74)
+00:25:12 - AI xác minh PET: cat (0.62)
+00:25:12 - AI xác minh PET: cat (0.74)
+00:25:12 - AI xác minh PET: cat (0.71)
+00:25:12 - AI xác minh PET: cat (0.79)
+00:25:13 - AI xác minh PET: cat (0.69)
+00:25:13 - AI xác minh PET: cat (0.70)
+00:25:13 - AI xác minh PET: cat (0.79)
+00:25:13 - AI xác minh PET: cat (0.59)
+00:25:14 - AI xác minh PET: cat (0.58)
+00:25:14 - AI xác minh PET: cat (0.64)
+00:25:14 - AI xác minh PET: cat (0.68)
+00:25:14 - AI xác minh PET: cat (0.71)
+00:25:14 - AI xác minh PET: cat (0.57)
+00:25:14 - AI xác minh PET: cat (0.77)
+00:25:14 - AI xác minh: Không phát hiện thú cưng
+00:25:15 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:25:16 - AI xác minh PET: cat (0.51)
+00:25:16 - AI xác minh PET: cat (0.59)
+00:25:16 - AI xác minh PET: cat (0.32)
+00:25:17 - AI xác minh PET: cat (0.40)
+00:25:17 - AI xác minh PET: cat (0.50)
+00:25:17 - AI xác minh PET: cat (0.75)
+00:25:17 - AI xác minh PET: cat (0.27)
+00:25:21 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:25:24 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:25:27 - PIR: phát hiện chuyển động
+00:25:27 - AI xác minh: Không phát hiện thú cưng
+00:25:27 - AI xác minh PET: cat (0.75)
+00:25:27 - AI xác minh PET: cat (0.52)
+00:25:28 - AI xác minh PET: cat (0.55)
+00:25:28 - AI xác minh PET: cat (0.35)
+00:25:28 - AI xác minh PET: cat (0.33)
+00:25:28 - AI xác minh PET: cat (0.76)
+00:25:28 - AI xác minh PET: cat (0.48)
+00:25:28 - AI xác minh PET: cat (0.29)
+00:25:29 - AI xác minh PET: cat (0.61)
+00:25:29 - AI xác minh PET: cat (0.80)
+00:25:29 - AI xác minh PET: cat (0.60)
+00:25:29 - AI xác minh PET: cat (0.27)
+00:25:30 - AI xác minh PET: cat (0.83)
+00:25:30 - AI xác minh PET: cat (0.33)
+00:25:30 - AI xác minh PET: dog (0.38)
+00:25:30 - AI xác minh PET: cat (0.34)
+00:25:30 - AI xác minh PET: cat (0.40)
+00:25:30 - AI xác minh PET: dog (0.30)
+00:25:32 - AI xác minh PET: cat (0.52)
+00:25:32 - AI xác minh PET: cat (0.32)
+00:25:32 - AI xác minh: Không phát hiện thú cưng
+00:25:32 - AI xác minh PET: cat (0.71)
+00:25:32 - AI xác minh PET: cat (0.59)
+00:25:32 - AI xác minh PET: cat (0.42)
+00:25:32 - AI xác minh PET: cat (0.64)
+00:25:33 - AI xác minh PET: cat (0.86)
+00:25:33 - PIR: phát hiện chuyển động
+00:25:33 - AI xác minh PET: cat (0.85)
+00:25:33 - AI xác minh PET: dog (0.49)
+00:25:33 - AI xác minh PET: cat (0.75)
+00:25:33 - AI xác minh PET: cat (0.44)
+00:25:33 - AI xác minh PET: cat (0.72)
+00:25:34 - AI xác minh PET: cat (0.72)
+00:25:34 - AI xác minh PET: cat (0.30)
+00:25:34 - AI xác minh PET: cat (0.86)
+00:25:34 - AI xác minh PET: cat (0.50)
+00:25:34 - AI xác minh PET: cat (0.78)
+00:25:34 - AI xác minh PET: cat (0.87)
+00:25:35 - AI xác minh PET: cat (0.76)
+00:25:35 - AI xác minh PET: cat (0.73)
+00:25:35 - AI xác minh PET: cat (0.82)
+00:25:35 - AI xác minh PET: cat (0.64)
+00:25:35 - AI xác minh PET: cat (0.61)
+00:25:35 - AI xác minh PET: cat (0.84)
+00:25:36 - AI xác minh PET: cat (0.77)
+00:25:36 - AI xác minh PET: cat (0.80)
+00:25:36 - AI xác minh PET: cat (0.77)
+00:25:36 - AI xác minh PET: cat (0.86)
+00:25:36 - AI xác minh PET: cat (0.64)
+00:25:36 - AI xác minh PET: cat (0.74)
+00:25:36 - AI xác minh PET: cat (0.74)
+00:25:37 - AI xác minh PET: cat (0.77)
+00:25:37 - AI xác minh PET: cat (0.73)
+00:25:37 - AI xác minh PET: cat (0.76)
+00:25:37 - AI xác minh PET: cat (0.85)
+00:25:37 - AI xác minh PET: cat (0.83)
+00:25:37 - AI xác minh PET: cat (0.86)
+00:25:37 - AI xác minh: Không phát hiện thú cưng
+00:25:38 - AI xác minh PET: cat (0.28)
+00:25:38 - AI xác minh PET: cat (0.65)
+00:25:38 - AI xác minh PET: cat (0.67)
+00:25:38 - AI xác minh PET: cat (0.56)
+00:25:39 - AI xác minh PET: cat (0.55)
+00:25:39 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:25:39 - AI xác minh PET: cat (0.65)
+00:25:39 - AI xác minh PET: cat (0.55)
+00:25:39 - AI xác minh PET: cat (0.57)
+00:25:39 - AI xác minh PET: cat (0.67)
+00:25:40 - AI xác minh PET: cat (0.62)
+00:25:40 - AI xác minh PET: cat (0.38)
+00:25:40 - AI xác minh PET: cat (0.64)
+00:25:41 - AI xác minh PET: cat (0.53)
+00:25:41 - AI xác minh PET: cat (0.45)
+00:25:42 - AI xác minh: Không phát hiện thú cưng
+00:25:48 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:25:48 - AI xác minh: Không phát hiện thú cưng
+00:30:57 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:31:09 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:31:12 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:31:18 - PIR: phát hiện chuyển động
+00:31:18 - AI xác minh: Không phát hiện thú cưng
+00:31:21 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:31:23 - AI xác minh: Không phát hiện thú cưng
+00:31:30 - PIR: phát hiện chuyển động
+00:31:30 - AI xác minh: Không phát hiện thú cưng
+00:31:31 - AI xác minh PET: cat (0.44)
+00:31:32 - AI xác minh PET: dog (0.32)
+00:31:32 - AI xác minh PET: cat (0.57)
+00:31:32 - AI xác minh PET: cat (0.50)
+00:31:32 - AI xác minh PET: cat (0.56)
+00:31:33 - AI xác minh PET: cat (0.69)
+00:31:33 - AI xác minh PET: cat (0.77)
+00:31:33 - AI xác minh PET: cat (0.55)
+00:31:33 - PIR: phát hiện chuyển động
+00:31:33 - AI xác minh PET: cat (0.75)
+00:31:33 - AI xác minh PET: cat (0.61)
+00:31:34 - AI xác minh PET: cat (0.68)
+00:31:34 - AI xác minh PET: cat (0.81)
+00:31:34 - AI xác minh PET: cat (0.62)
+00:31:34 - AI xác minh PET: cat (0.66)
+00:31:34 - AI xác minh PET: cat (0.55)
+00:31:34 - AI xác minh PET: cat (0.69)
+00:31:34 - AI xác minh PET: cat (0.69)
+00:31:35 - AI xác minh PET: cat (0.63)
+00:31:35 - AI xác minh PET: cat (0.76)
+00:31:35 - AI xác minh PET: cat (0.82)
+00:31:35 - AI xác minh PET: cat (0.65)
+00:31:35 - AI xác minh PET: cat (0.45)
+00:31:35 - AI xác minh PET: dog (0.32)
+00:31:35 - AI xác minh: Không phát hiện thú cưng
+00:31:36 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:31:36 - AI xác minh PET: cat (0.30)
+00:31:38 - AI xác minh PET: dog (0.32)
+00:31:45 - PIR: phát hiện chuyển động
+00:31:45 - AI xác minh PET: cat (0.39)
+00:31:45 - AI xác minh: Không phát hiện thú cưng
+00:31:45 - AI xác minh PET: cat (0.64)
+00:31:46 - AI xác minh PET: cat (0.42)
+00:31:46 - AI xác minh PET: cat (0.36)
+00:31:47 - AI xác minh PET: cat (0.58)
+00:31:47 - AI xác minh PET: dog (0.37)
+00:31:47 - AI xác minh PET: cat (0.77)
+00:31:47 - AI xác minh PET: cat (0.63)
+00:31:47 - AI xác minh PET: cat (0.57)
+00:31:47 - AI xác minh PET: dog (0.48)
+00:31:47 - AI xác minh PET: cat (0.40)
+00:31:47 - AI xác minh PET: dog (0.30)
+00:31:48 - AI xác minh PET: cat (0.69)
+00:31:48 - AI xác minh PET: cat (0.70)
+00:31:48 - AI xác minh PET: cat (0.33)
+00:31:48 - AI xác minh PET: dog (0.32)
+00:31:48 - AI xác minh PET: cat (0.36)
+00:32:00 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:32:09 - PIR: phát hiện chuyển động
+00:32:09 - AI xác minh: Không phát hiện thú cưng
+00:32:18 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:32:21 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:32:24 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:32:36 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:32:45 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:32:57 - PIR: phát hiện chuyển động
+00:32:57 - AI xác minh: Không phát hiện thú cưng
+00:33:00 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:33:02 - AI xác minh PET: dog (0.45)
+00:33:02 - AI xác minh: Không phát hiện thú cưng
+00:33:03 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:33:04 - AI xác minh PET: cat (0.45)
+00:33:04 - AI xác minh PET: cat (0.74)
+00:33:05 - AI xác minh PET: cat (0.57)
+00:33:05 - AI xác minh PET: cat (0.59)
+00:33:05 - AI xác minh PET: cat (0.40)
+00:33:05 - AI xác minh PET: cat (0.37)
+00:33:05 - AI xác minh PET: cat (0.39)
+00:33:05 - AI xác minh PET: cat (0.35)
+00:33:05 - AI xác minh PET: cat (0.47)
+00:33:05 - AI xác minh PET: cat (0.31)
+00:33:05 - AI xác minh PET: cat (0.76)
+00:33:05 - AI xác minh PET: cat (0.27)
+00:33:06 - AI xác minh PET: cat (0.57)
+00:33:06 - AI xác minh PET: cat (0.50)
+00:33:06 - AI xác minh PET: cat (0.34)
+00:33:06 - AI xác minh PET: cat (0.30)
+00:33:06 - AI xác minh PET: cat (0.54)
+00:33:06 - AI xác minh PET: cat (0.41)
+00:33:06 - AI xác minh PET: cat (0.32)
+00:33:06 - AI xác minh PET: cat (0.60)
+00:33:06 - AI xác minh PET: cat (0.35)
+00:33:07 - AI xác minh PET: cat (0.72)
+00:33:07 - AI xác minh PET: cat (0.50)
+00:33:07 - AI xác minh PET: cat (0.36)
+00:33:08 - AI xác minh PET: cat (0.40)
+00:33:08 - AI xác minh PET: cat (0.52)
+00:33:08 - AI xác minh: Không phát hiện thú cưng
+00:33:08 - AI xác minh PET: cat (0.62)
+00:33:08 - AI xác minh PET: cat (0.39)
+00:33:08 - AI xác minh PET: cat (0.73)
+00:33:08 - AI xác minh PET: cat (0.63)
+00:33:08 - AI xác minh PET: cat (0.36)
+00:33:09 - AI xác minh PET: cat (0.39)
+00:33:09 - AI xác minh PET: cat (0.45)
+00:33:09 - AI xác minh PET: cat (0.52)
+00:33:09 - AI xác minh PET: cat (0.66)
+00:33:09 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:33:09 - AI xác minh PET: cat (0.79)
+00:33:09 - AI xác minh PET: cat (0.71)
+00:33:09 - AI xác minh PET: cat (0.52)
+00:33:10 - AI xác minh PET: cat (0.53)
+00:33:10 - AI xác minh PET: cat (0.58)
+00:33:10 - AI xác minh PET: cat (0.83)
+00:33:10 - AI xác minh PET: cat (0.79)
+00:33:11 - AI xác minh PET: cat (0.59)
+00:33:11 - AI xác minh PET: cat (0.62)
+00:33:11 - AI xác minh PET: cat (0.38)
+00:33:11 - AI xác minh PET: cat (0.78)
+00:33:11 - AI xác minh PET: cat (0.67)
+00:33:11 - AI xác minh PET: cat (0.51)
+00:33:11 - AI xác minh PET: cat (0.80)
+00:33:12 - AI xác minh PET: cat (0.69)
+00:33:12 - AI xác minh PET: cat (0.68)
+00:33:12 - AI xác minh PET: cat (0.63)
+00:33:12 - AI xác minh PET: cat (0.77)
+00:33:12 - AI xác minh PET: cat (0.74)
+00:33:13 - AI xác minh PET: cat (0.39)
+00:33:13 - AI xác minh PET: cat (0.27)
+00:33:13 - AI xác minh PET: cat (0.80)
+00:33:13 - AI xác minh PET: cat (0.81)
+00:33:13 - AI xác minh: Không phát hiện thú cưng
+00:33:13 - AI xác minh PET: cat (0.64)
+00:33:18 - AI xác minh: Không phát hiện thú cưng
+00:33:18 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:33:20 - AI xác minh PET: cat (0.27)
+00:33:22 - AI xác minh PET: dog (0.28)
+00:33:23 - AI xác minh: Không phát hiện thú cưng
+00:33:24 - AI xác minh PET: dog (0.33)
+00:33:24 - PIR: phát hiện chuyển động
+00:33:24 - AI xác minh PET: dog (0.29)
+00:33:24 - AI xác minh PET: dog (0.30)
+00:33:25 - AI xác minh PET: dog (0.39)
+00:33:28 - AI xác minh: Không phát hiện thú cưng
+00:33:30 - PIR: phát hiện chuyển động
+00:33:33 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:33:33 - AI xác minh: Không phát hiện thú cưng
+00:33:36 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:33:38 - AI xác minh: Không phát hiện thú cưng
+00:33:43 - AI xác minh: Không phát hiện thú cưng
+00:33:45 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:33:48 - PIR: phát hiện chuyển động
+00:33:48 - AI xác minh: Không phát hiện thú cưng
+00:33:53 - AI xác minh: Không phát hiện thú cưng
+00:33:57 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:34:09 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:34:18 - PIR: phát hiện chuyển động
+00:34:18 - AI xác minh: Không phát hiện thú cưng
+00:34:21 - PIR: phát hiện chuyển động
+00:34:23 - AI xác minh: Không phát hiện thú cưng
+00:34:24 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:34:29 - AI xác minh: Không phát hiện thú cưng
+00:34:51 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:34:57 - PIR: phát hiện chuyển động
+00:34:57 - AI xác minh: Không phát hiện thú cưng
+00:34:58 - AI xác minh PET: cat (0.41)
+00:34:58 - AI xác minh PET: cat (0.56)
+00:34:59 - AI xác minh PET: cat (0.62)
+00:34:59 - AI xác minh PET: cat (0.46)
+00:34:59 - AI xác minh PET: cat (0.42)
+00:34:59 - AI xác minh PET: cat (0.48)
+00:34:59 - AI xác minh PET: cat (0.57)
+00:34:59 - AI xác minh PET: cat (0.49)
+00:34:59 - AI xác minh PET: cat (0.30)
+00:34:59 - AI xác minh PET: cat (0.48)
+00:34:59 - AI xác minh PET: cat (0.27)
+00:35:00 - AI xác minh PET: cat (0.48)
+00:35:00 - AI xác minh PET: cat (0.70)
+00:35:00 - AI xác minh PET: cat (0.63)
+00:35:00 - AI xác minh PET: cat (0.46)
+00:35:00 - AI xác minh PET: cat (0.27)
+00:35:00 - AI xác minh PET: cat (0.53)
+00:35:00 - AI xác minh PET: cat (0.26)
+00:35:00 - AI xác minh PET: cat (0.41)
+00:35:03 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:35:09 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:35:15 - PIR: phát hiện chuyển động
+00:35:15 - AI xác minh: Không phát hiện thú cưng
+00:41:01 - PIR: phát hiện chuyển động
+00:41:01 - AI xác minh: Không phát hiện thú cưng
+00:41:06 - AI xác minh: Không phát hiện thú cưng
+00:41:11 - AI xác minh PET: cat (0.46)
+00:41:11 - AI xác minh PET: cat (0.72)
+00:41:11 - AI xác minh PET: cat (0.81)
+00:41:11 - AI xác minh PET: cat (0.82)
+00:41:12 - AI xác minh PET: cat (0.77)
+00:41:12 - AI xác minh PET: cat (0.80)
+00:41:12 - AI xác minh PET: cat (0.70)
+00:41:12 - AI xác minh: Không phát hiện thú cưng
+00:41:12 - AI xác minh PET: cat (0.84)
+00:41:12 - AI xác minh PET: cat (0.82)
+00:41:12 - AI xác minh PET: cat (0.83)
+00:41:12 - AI xác minh PET: cat (0.81)
+00:41:12 - AI xác minh PET: cat (0.82)
+00:41:13 - AI xác minh PET: cat (0.79)
+00:41:13 - AI xác minh PET: cat (0.81)
+00:41:13 - AI xác minh PET: cat (0.79)
+00:41:13 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:41:13 - AI xác minh PET: cat (0.35)
+00:41:13 - AI xác minh PET: cat (0.77)
+00:41:14 - AI xác minh PET: cat (0.37)
+00:41:14 - AI xác minh PET: cat (0.44)
+00:41:14 - AI xác minh PET: cat (0.33)
+00:41:14 - AI xác minh PET: cat (0.43)
+00:41:14 - AI xác minh PET: cat (0.27)
+00:41:14 - AI xác minh PET: cat (0.25)
+00:41:14 - AI xác minh PET: cat (0.29)
+00:41:14 - AI xác minh PET: cat (0.72)
+00:41:14 - AI xác minh PET: cat (0.27)
+00:41:14 - AI xác minh PET: cat (0.65)
+00:41:15 - AI xác minh PET: cat (0.65)
+00:41:17 - AI xác minh: Không phát hiện thú cưng
+00:45:55 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:45:58 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:46:01 - PIR: phát hiện chuyển động
+00:46:01 - AI xác minh: Không phát hiện thú cưng
+00:46:04 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:46:06 - AI xác minh: Không phát hiện thú cưng
+00:46:07 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:46:10 - PIR: phát hiện chuyển động
+00:46:11 - AI xác minh: Không phát hiện thú cưng
+00:46:13 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:46:16 - AI xác minh: Không phát hiện thú cưng
+00:46:21 - AI xác minh: Không phát hiện thú cưng
+00:46:22 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:46:25 - PIR: phát hiện chuyển động
+00:46:26 - AI xác minh: Không phát hiện thú cưng
+00:46:28 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:46:29 - AI xác minh PET: cat (0.87)
+00:46:30 - AI xác minh PET: cat (0.93)
+00:46:37 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:46:43 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:46:46 - PIR: phát hiện chuyển động
+00:46:46 - AI xác minh: Không phát hiện thú cưng
+00:46:48 - AI xác minh PET: cat (0.45)
+00:46:49 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:46:51 - AI xác minh: Không phát hiện thú cưng
+00:46:51 - AI xác minh PET: cat (0.44)
+00:46:51 - AI xác minh PET: cat (0.40)
+00:46:52 - PIR: phát hiện chuyển động
+00:46:52 - AI xác minh PET: cat (0.55)
+00:46:52 - AI xác minh PET: cat (0.63)
+00:46:53 - AI xác minh PET: cat (0.77)
+00:46:53 - AI xác minh PET: cat (0.42)
+00:46:53 - AI xác minh PET: cat (0.38)
+00:46:53 - AI xác minh PET: cat (0.80)
+00:46:54 - AI xác minh PET: cat (0.83)
+00:46:54 - AI xác minh PET: cat (0.77)
+00:46:54 - AI xác minh PET: cat (0.51)
+00:46:54 - AI xác minh PET: cat (0.49)
+00:46:54 - AI xác minh PET: cat (0.77)
+00:46:55 - AI xác minh PET: cat (0.52)
+00:46:55 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:46:55 - AI xác minh PET: cat (0.48)
+00:46:55 - AI xác minh PET: cat (0.81)
+00:46:55 - AI xác minh PET: cat (0.26)
+00:46:56 - AI xác minh PET: cat (0.72)
+00:46:56 - AI xác minh PET: cat (0.43)
+00:46:56 - AI xác minh: Không phát hiện thú cưng
+00:46:57 - AI xác minh PET: cat (0.43)
+00:46:57 - AI xác minh PET: cat (0.51)
+00:46:57 - AI xác minh PET: cat (0.27)
+00:46:57 - AI xác minh PET: cat (0.40)
+00:46:57 - AI xác minh PET: cat (0.25)
+00:46:57 - AI xác minh PET: cat (0.39)
+00:46:57 - AI xác minh PET: cat (0.34)
+00:46:58 - AI xác minh PET: cat (0.47)
+00:46:58 - AI xác minh PET: cat (0.48)
+00:46:58 - AI xác minh PET: cat (0.36)
+00:46:58 - AI xác minh PET: cat (0.26)
+00:46:58 - AI xác minh PET: cat (0.48)
+00:46:58 - AI xác minh PET: cat (0.45)
+00:46:59 - AI xác minh PET: cat (0.72)
+00:46:59 - AI xác minh PET: cat (0.72)
+00:46:59 - AI xác minh PET: cat (0.42)
+00:46:59 - AI xác minh PET: cat (0.67)
+00:46:59 - AI xác minh PET: cat (0.31)
+00:46:59 - AI xác minh PET: dog (0.26)
+00:46:59 - AI xác minh PET: cat (0.65)
+00:46:59 - AI xác minh PET: cat (0.26)
+00:47:00 - AI xác minh PET: cat (0.72)
+00:47:00 - AI xác minh PET: cat (0.69)
+00:47:00 - AI xác minh PET: cat (0.29)
+00:47:00 - AI xác minh PET: dog (0.38)
+00:47:00 - AI xác minh PET: cat (0.38)
+00:47:00 - AI xác minh PET: cat (0.27)
+00:47:00 - AI xác minh PET: cat (0.74)
+00:47:00 - AI xác minh PET: dog (0.41)
+00:47:00 - AI xác minh PET: cat (0.29)
+00:47:00 - AI xác minh PET: cat (0.69)
+00:47:01 - AI xác minh PET: cat (0.64)
+00:47:01 - AI xác minh PET: cat (0.41)
+00:47:01 - AI xác minh PET: cat (0.54)
+00:47:01 - AI xác minh PET: dog (0.35)
+00:47:01 - PIR: phát hiện chuyển động
+00:47:01 - AI xác minh PET: cat (0.63)
+00:47:01 - AI xác minh PET: cat (0.69)
+00:47:01 - AI xác minh PET: cat (0.46)
+00:47:01 - AI xác minh PET: cat (0.65)
+00:47:01 - AI xác minh PET: cat (0.58)
+00:47:01 - AI xác minh PET: cat (0.57)
+00:47:01 - AI xác minh PET: cat (0.37)
+00:47:01 - AI xác minh PET: cat (0.64)
+00:47:01 - AI xác minh PET: cat (0.31)
+00:47:02 - AI xác minh PET: cat (0.66)
+00:47:02 - AI xác minh PET: cat (0.43)
+00:47:02 - AI xác minh PET: cat (0.60)
+00:47:02 - AI xác minh PET: dog (0.33)
+00:47:02 - AI xác minh PET: cat (0.70)
+00:47:02 - AI xác minh PET: cat (0.40)
+00:47:02 - AI xác minh PET: cat (0.40)
+00:47:02 - AI xác minh PET: cat (0.31)
+00:47:02 - AI xác minh PET: dog (0.31)
+00:47:02 - AI xác minh PET: cat (0.28)
+00:47:02 - AI xác minh PET: cat (0.57)
+00:47:02 - AI xác minh PET: dog (0.37)
+00:47:02 - AI xác minh PET: cat (0.29)
+00:47:02 - AI xác minh PET: cat (0.69)
+00:47:03 - AI xác minh PET: cat (0.71)
+00:47:03 - AI xác minh PET: cat (0.39)
+00:47:03 - AI xác minh PET: cat (0.71)
+00:47:03 - AI xác minh PET: cat (0.44)
+00:47:03 - AI xác minh PET: cat (0.72)
+00:47:03 - AI xác minh PET: cat (0.61)
+00:47:03 - AI xác minh PET: cat (0.78)
+00:47:03 - AI xác minh PET: cat (0.38)
+00:47:03 - AI xác minh PET: cat (0.66)
+00:47:03 - AI xác minh PET: cat (0.70)
+00:47:03 - AI xác minh PET: cat (0.54)
+00:47:03 - AI xác minh PET: cat (0.27)
+00:47:03 - AI xác minh PET: cat (0.71)
+00:47:03 - AI xác minh PET: cat (0.49)
+00:47:04 - AI xác minh PET: cat (0.66)
+00:47:04 - AI xác minh PET: cat (0.73)
+00:47:04 - AI xác minh PET: cat (0.64)
+00:47:04 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:47:04 - AI xác minh PET: cat (0.73)
+00:47:04 - AI xác minh PET: cat (0.37)
+00:47:04 - AI xác minh PET: cat (0.65)
+00:47:04 - AI xác minh PET: cat (0.57)
+00:47:04 - AI xác minh PET: cat (0.42)
+00:47:04 - AI xác minh PET: cat (0.65)
+00:47:04 - AI xác minh PET: cat (0.60)
+00:47:04 - AI xác minh PET: cat (0.65)
+00:47:04 - AI xác minh PET: cat (0.61)
+00:47:05 - AI xác minh PET: cat (0.66)
+00:47:05 - AI xác minh PET: cat (0.60)
+00:47:05 - AI xác minh PET: cat (0.42)
+00:47:05 - AI xác minh PET: cat (0.55)
+00:47:05 - AI xác minh PET: cat (0.30)
+00:47:05 - AI xác minh PET: cat (0.68)
+00:47:05 - AI xác minh PET: cat (0.41)
+00:47:05 - AI xác minh PET: cat (0.81)
+00:47:05 - AI xác minh PET: cat (0.42)
+00:47:05 - AI xác minh PET: cat (0.57)
+00:47:05 - AI xác minh PET: cat (0.44)
+00:47:05 - AI xác minh PET: cat (0.69)
+00:47:05 - AI xác minh PET: cat (0.44)
+00:47:06 - AI xác minh PET: cat (0.56)
+00:47:06 - AI xác minh PET: cat (0.29)
+00:47:06 - AI xác minh PET: cat (0.45)
+00:47:06 - AI xác minh PET: cat (0.42)
+00:47:06 - AI xác minh PET: cat (0.32)
+00:47:06 - AI xác minh PET: cat (0.34)
+00:47:06 - AI xác minh PET: cat (0.34)
+00:47:06 - AI xác minh: Không phát hiện thú cưng
+00:47:07 - PIR: phát hiện chuyển động
+00:47:10 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:47:11 - AI xác minh: Không phát hiện thú cưng
+00:47:13 - AI xác minh PET: dog (0.27)
+00:47:13 - AI xác minh PET: dog (0.30)
+00:47:13 - AI xác minh PET: cat (0.29)
+00:47:13 - AI xác minh PET: cat (0.48)
+00:49:38 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:49:41 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:49:50 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:49:53 - PIR: phát hiện chuyển động
+00:49:54 - AI xác minh: Không phát hiện thú cưng
+00:49:59 - PIR: phát hiện chuyển động
+00:49:59 - AI xác minh: Không phát hiện thú cưng
+00:50:02 - PIR: phát hiện chuyển động
+00:50:02 - AI xác minh PET: cat (0.82)
+00:50:03 - AI xác minh PET: cat (0.95)
+00:50:03 - AI xác minh PET: cat (0.39)
+00:50:03 - AI xác minh PET: cat (0.90)
+00:50:03 - AI xác minh PET: cat (0.28)
+00:50:03 - AI xác minh PET: cat (0.92)
+00:50:03 - AI xác minh PET: cat (0.59)
+00:50:03 - AI xác minh PET: cat (0.80)
+00:50:03 - AI xác minh PET: cat (0.73)
+00:50:04 - AI xác minh PET: cat (0.81)
+00:50:04 - AI xác minh PET: cat (0.76)
+00:50:04 - AI xác minh PET: cat (0.88)
+00:50:04 - AI xác minh PET: cat (0.78)
+00:50:04 - AI xác minh PET: cat (0.92)
+00:50:04 - AI xác minh PET: cat (0.86)
+00:50:04 - AI xác minh PET: cat (0.84)
+00:50:04 - AI xác minh PET: cat (0.51)
+00:50:04 - AI xác minh PET: cat (0.81)
+00:50:05 - AI xác minh: Không phát hiện thú cưng
+00:50:05 - AI xác minh PET: cat (0.61)
+00:50:05 - AI xác minh PET: cat (0.35)
+00:50:05 - AI xác minh PET: cat (0.29)
+00:50:05 - AI xác minh PET: cat (0.84)
+00:50:05 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:50:05 - AI xác minh PET: cat (0.60)
+00:50:05 - AI xác minh PET: cat (0.35)
+00:50:06 - AI xác minh PET: cat (0.67)
+00:50:06 - AI xác minh PET: cat (0.30)
+00:50:06 - AI xác minh PET: cat (0.82)
+00:50:06 - AI xác minh PET: cat (0.32)
+00:50:06 - AI xác minh PET: cat (0.85)
+00:50:06 - AI xác minh PET: cat (0.81)
+00:50:07 - AI xác minh PET: cat (0.91)
+00:50:07 - AI xác minh PET: cat (0.86)
+00:50:07 - AI xác minh PET: cat (0.80)
+00:50:07 - AI xác minh PET: cat (0.41)
+00:50:07 - AI xác minh PET: cat (0.84)
+00:50:07 - AI xác minh PET: cat (0.40)
+00:50:07 - AI xác minh PET: cat (0.83)
+00:50:07 - AI xác minh PET: cat (0.31)
+00:50:07 - AI xác minh PET: cat (0.78)
+00:50:07 - AI xác minh PET: cat (0.37)
+00:50:08 - AI xác minh PET: cat (0.91)
+00:50:08 - AI xác minh PET: cat (0.84)
+00:50:08 - AI xác minh PET: cat (0.75)
+00:50:08 - AI xác minh PET: cat (0.81)
+00:50:08 - AI xác minh PET: cat (0.66)
+00:50:08 - AI xác minh PET: cat (0.84)
+00:50:08 - AI xác minh PET: cat (0.72)
+00:50:08 - PIR: phát hiện chuyển động
+00:50:08 - AI xác minh PET: cat (0.88)
+00:50:09 - AI xác minh PET: cat (0.92)
+00:50:09 - AI xác minh PET: cat (0.90)
+00:50:09 - AI xác minh PET: cat (0.34)
+00:50:09 - AI xác minh PET: cat (0.92)
+00:50:09 - AI xác minh PET: cat (0.91)
+00:50:09 - AI xác minh PET: cat (0.89)
+00:50:09 - AI xác minh PET: cat (0.32)
+00:50:09 - AI xác minh PET: cat (0.85)
+00:50:09 - AI xác minh PET: cat (0.91)
+00:50:10 - AI xác minh PET: cat (0.70)
+00:50:10 - AI xác minh PET: cat (0.49)
+00:50:10 - AI xác minh: Không phát hiện thú cưng
+00:50:10 - AI xác minh PET: cat (0.27)
+00:50:10 - AI xác minh PET: cat (0.46)
+00:50:11 - AI xác minh PET: cat (0.83)
+00:50:11 - AI xác minh PET: cat (0.38)
+00:50:11 - AI xác minh PET: cat (0.33)
+00:50:11 - AI xác minh PET: cat (0.79)
+00:50:11 - AI xác minh PET: cat (0.40)
+00:50:11 - AI xác minh PET: cat (0.76)
+00:50:11 - AI xác minh PET: cat (0.35)
+00:50:11 - AI xác minh PET: cat (0.81)
+00:50:11 - AI xác minh PET: cat (0.43)
+00:50:11 - AI xác minh PET: cat (0.89)
+00:50:11 - AI xác minh PET: cat (0.77)
+00:50:11 - AI xác minh PET: cat (0.54)
+00:50:11 - AI xác minh PET: cat (0.86)
+00:50:11 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:50:11 - AI xác minh PET: cat (0.88)
+00:50:12 - AI xác minh PET: cat (0.85)
+00:50:12 - AI xác minh PET: cat (0.79)
+00:50:12 - AI xác minh PET: cat (0.61)
+00:50:12 - AI xác minh PET: cat (0.66)
+00:50:12 - AI xác minh PET: cat (0.58)
+00:50:12 - AI xác minh PET: cat (0.82)
+00:50:12 - AI xác minh PET: cat (0.49)
+00:50:12 - AI xác minh PET: cat (0.81)
+00:50:12 - AI xác minh PET: cat (0.47)
+00:50:12 - AI xác minh PET: cat (0.88)
+00:50:12 - AI xác minh PET: cat (0.80)
+00:50:12 - AI xác minh PET: cat (0.26)
+00:50:13 - AI xác minh PET: cat (0.90)
+00:50:13 - AI xác minh PET: cat (0.82)
+00:50:13 - AI xác minh PET: cat (0.31)
+00:50:13 - AI xác minh PET: cat (0.81)
+00:50:13 - AI xác minh PET: cat (0.61)
+00:50:13 - AI xác minh PET: cat (0.55)
+00:50:13 - AI xác minh PET: cat (0.52)
+00:50:13 - AI xác minh PET: cat (0.28)
+00:50:13 - AI xác minh PET: cat (0.72)
+00:50:13 - AI xác minh PET: cat (0.57)
+00:50:13 - AI xác minh PET: cat (0.86)
+00:50:13 - AI xác minh PET: cat (0.67)
+00:50:13 - AI xác minh PET: cat (0.53)
+00:50:13 - AI xác minh PET: cat (0.90)
+00:50:13 - AI xác minh PET: cat (0.33)
+00:50:14 - AI xác minh PET: cat (0.80)
+00:50:14 - AI xác minh PET: cat (0.60)
+00:50:14 - AI xác minh PET: cat (0.74)
+00:50:14 - AI xác minh PET: cat (0.42)
+00:50:14 - AI xác minh PET: cat (0.76)
+00:50:14 - AI xác minh PET: cat (0.66)
+00:50:14 - AI xác minh PET: cat (0.86)
+00:50:14 - AI xác minh PET: cat (0.72)
+00:50:14 - AI xác minh PET: cat (0.83)
+00:50:14 - AI xác minh PET: cat (0.41)
+00:50:17 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:50:20 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:50:41 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:50:47 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:50:50 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:50:53 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:50:56 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:50:59 - PIR: phát hiện chuyển động
+00:51:00 - AI xác minh PET: cat (0.90)
+00:51:00 - AI xác minh PET: cat (0.62)
+00:51:00 - AI xác minh PET: cat (0.36)
+00:51:00 - AI xác minh PET: cat (0.33)
+00:51:00 - AI xác minh: Không phát hiện thú cưng
+00:51:00 - AI xác minh PET: cat (0.93)
+00:51:01 - AI xác minh PET: cat (0.59)
+00:51:01 - AI xác minh PET: cat (0.81)
+00:51:01 - AI xác minh PET: cat (0.61)
+00:51:01 - AI xác minh PET: cat (0.27)
+00:51:01 - AI xác minh PET: cat (0.87)
+00:51:01 - AI xác minh PET: cat (0.31)
+00:51:01 - AI xác minh PET: cat (0.31)
+00:51:01 - AI xác minh PET: cat (0.71)
+00:51:02 - AI xác minh PET: cat (0.91)
+00:51:03 - AI xác minh PET: cat (0.85)
+00:51:03 - AI xác minh PET: cat (0.84)
+00:51:03 - AI xác minh PET: cat (0.86)
+00:51:03 - AI xác minh PET: cat (0.88)
+00:51:03 - AI xác minh PET: cat (0.88)
+00:51:03 - AI xác minh PET: cat (0.87)
+00:51:03 - AI xác minh PET: cat (0.85)
+00:51:04 - AI xác minh PET: cat (0.87)
+00:51:04 - AI xác minh PET: cat (0.69)
+00:51:04 - AI xác minh PET: cat (0.78)
+00:51:04 - AI xác minh PET: cat (0.79)
+00:51:04 - AI xác minh PET: cat (0.86)
+00:51:04 - AI xác minh PET: cat (0.85)
+00:51:04 - AI xác minh PET: cat (0.69)
+00:51:05 - AI xác minh PET: cat (0.63)
+00:51:05 - AI xác minh PET: cat (0.57)
+00:51:05 - AI xác minh PET: cat (0.79)
+00:51:05 - AI xác minh PET: cat (0.65)
+00:51:05 - AI xác minh PET: cat (0.66)
+00:51:05 - AI xác minh: Không phát hiện thú cưng
+00:51:05 - AI xác minh PET: cat (0.75)
+00:51:05 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:51:06 - AI xác minh PET: cat (0.65)
+00:51:06 - AI xác minh PET: cat (0.67)
+00:51:06 - AI xác minh PET: cat (0.74)
+00:51:06 - AI xác minh PET: cat (0.73)
+00:51:11 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:51:14 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+00:51:17 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:05:11 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:05:20 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:05:29 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:05:32 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:05:35 - PIR: phát hiện chuyển động
+04:05:35 - AI xác minh: Không phát hiện thú cưng
+04:05:41 - AI xác minh: Không phát hiện thú cưng
+04:05:41 - PIR: phát hiện chuyển động
+04:05:46 - AI xác minh: Không phát hiện thú cưng
+04:05:47 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:05:51 - AI xác minh: Không phát hiện thú cưng
+04:05:56 - AI xác minh: Không phát hiện thú cưng
+04:05:56 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:06:01 - AI xác minh: Không phát hiện thú cưng
+04:06:08 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:06:14 - PIR: phát hiện chuyển động
+04:06:14 - AI xác minh: Không phát hiện thú cưng
+04:06:17 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:06:19 - AI xác minh: Không phát hiện thú cưng
+04:06:23 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:06:35 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:06:56 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:06:59 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:07:02 - PIR: phát hiện chuyển động
+04:07:02 - AI xác minh: Không phát hiện thú cưng
+04:07:07 - AI xác minh: Không phát hiện thú cưng
+04:07:08 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:07:11 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:07:12 - AI xác minh: Không phát hiện thú cưng
+04:07:20 - PIR: phát hiện chuyển động
+04:07:20 - AI xác minh: Không phát hiện thú cưng
+04:07:25 - AI xác minh: Không phát hiện thú cưng
+04:07:41 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:07:44 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:07:59 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:08:02 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:08:14 - PIR: phát hiện chuyển động
+04:08:14 - AI xác minh: Không phát hiện thú cưng
+04:08:17 - PIR: phát hiện chuyển động
+04:08:19 - AI xác minh: Không phát hiện thú cưng
+04:08:23 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:08:24 - AI xác minh: Không phát hiện thú cưng
+04:08:29 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:08:29 - AI xác minh: Không phát hiện thú cưng
+04:08:32 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:08:34 - AI xác minh: Không phát hiện thú cưng
+04:08:35 - PIR: phát hiện chuyển động
+04:08:38 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:08:39 - AI xác minh: Không phát hiện thú cưng
+04:08:41 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:08:44 - PIR: phát hiện chuyển động
+04:08:44 - AI xác minh: Không phát hiện thú cưng
+04:08:47 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:08:50 - AI xác minh: Không phát hiện thú cưng
+04:08:55 - AI xác minh: Không phát hiện thú cưng
+04:09:02 - PIR: phát hiện chuyển động
+04:09:02 - AI xác minh: Không phát hiện thú cưng
+04:09:05 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:09:07 - AI xác minh: Không phát hiện thú cưng
+04:09:14 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:09:17 - PIR: phát hiện chuyển động
+04:09:17 - AI xác minh: Không phát hiện thú cưng
+04:09:22 - AI xác minh: Không phát hiện thú cưng
+04:09:41 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:09:47 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:09:59 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:10:02 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:10:05 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:10:14 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:10:17 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:10:20 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:10:26 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:10:29 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:10:38 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:10:41 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:10:50 - PIR: phát hiện chuyển động
+04:10:50 - AI xác minh: Không phát hiện thú cưng
+04:10:55 - AI xác minh: Không phát hiện thú cưng
+04:10:59 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:11:00 - AI xác minh: Không phát hiện thú cưng
+04:11:05 - PIR: phát hiện chuyển động
+04:11:05 - AI xác minh: Không phát hiện thú cưng
+04:11:08 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:11:10 - AI xác minh: Không phát hiện thú cưng
+04:11:11 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:11:14 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:11:15 - AI xác minh: Không phát hiện thú cưng
+04:11:17 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:11:20 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:11:21 - AI xác minh: Không phát hiện thú cưng
+04:11:29 - PIR: phát hiện chuyển động
+04:11:29 - AI xác minh: Không phát hiện thú cưng
+04:11:32 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:11:34 - AI xác minh: Không phát hiện thú cưng
+04:11:38 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:11:44 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:11:47 - PIR: phát hiện chuyển động
+04:11:47 - AI xác minh: Không phát hiện thú cưng
+04:11:50 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:11:52 - AI xác minh: Không phát hiện thú cưng
+04:12:05 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:12:08 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:12:11 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:12:14 - PIR: phát hiện chuyển động
+04:12:14 - AI xác minh: Không phát hiện thú cưng
+04:12:19 - AI xác minh: Không phát hiện thú cưng
+04:12:20 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:12:50 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:12:53 - PIR: phát hiện chuyển động
+04:12:53 - AI xác minh: Không phát hiện thú cưng
+04:12:58 - AI xác minh: Không phát hiện thú cưng
+04:12:59 - PIR: phát hiện chuyển động
+04:13:04 - AI xác minh: Không phát hiện thú cưng
+04:13:05 - PIR: phát hiện chuyển động
+04:13:09 - AI xác minh: Không phát hiện thú cưng
+04:13:11 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:13:14 - AI xác minh: Không phát hiện thú cưng
+04:13:14 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:13:17 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+04:13:19 - AI xác minh: Không phát hiện thú cưng
+11:30:15 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:30:27 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:30:36 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:30:42 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:30:51 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:30:54 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:30:57 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:31:00 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:31:06 - PIR: phát hiện chuyển động
+11:31:06 - AI xác minh: Không phát hiện thú cưng
+11:31:07 - AI xác minh PET: cat (0.34)
+11:31:07 - AI xác minh PET: cat (0.29)
+11:33:15 - PIR: phát hiện chuyển động
+11:33:16 - AI xác minh: Không phát hiện thú cưng
+11:33:21 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:33:24 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:33:27 - PIR: phát hiện chuyển động
+11:33:27 - AI xác minh PET: cat (0.50)
+11:33:27 - AI xác minh PET: cat (0.54)
+11:33:27 - AI xác minh: Không phát hiện thú cưng
+11:33:27 - AI xác minh PET: cat (0.35)
+11:33:28 - AI xác minh PET: cat (0.70)
+11:33:28 - AI xác minh PET: cat (0.36)
+11:33:28 - AI xác minh PET: cat (0.67)
+11:33:29 - AI xác minh PET: dog (0.36)
+11:33:29 - AI xác minh PET: cat (0.79)
+11:33:29 - AI xác minh PET: cat (0.46)
+11:33:29 - AI xác minh PET: cat (0.82)
+11:33:29 - AI xác minh PET: cat (0.77)
+11:33:30 - AI xác minh PET: cat (0.75)
+11:33:30 - AI xác minh PET: cat (0.37)
+11:33:30 - AI xác minh PET: cat (0.27)
+11:33:30 - AI xác minh PET: cat (0.61)
+11:33:30 - AI xác minh PET: cat (0.48)
+11:33:36 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:33:39 - PIR: phát hiện chuyển động
+11:33:39 - AI xác minh: Không phát hiện thú cưng
+11:33:41 - AI xác minh PET: cat (0.78)
+11:33:41 - AI xác minh PET: cat (0.71)
+11:33:41 - AI xác minh PET: cat (0.39)
+11:33:41 - AI xác minh PET: cat (0.81)
+11:33:41 - AI xác minh PET: cat (0.53)
+11:33:41 - AI xác minh PET: cat (0.71)
+11:33:41 - AI xác minh PET: cat (0.81)
+11:33:42 - AI xác minh PET: cat (0.84)
+11:33:42 - AI xác minh PET: cat (0.76)
+11:33:42 - PIR: phát hiện chuyển động
+11:33:42 - AI xác minh PET: cat (0.76)
+11:33:42 - AI xác minh PET: cat (0.36)
+11:33:42 - AI xác minh PET: cat (0.84)
+11:33:43 - AI xác minh PET: cat (0.39)
+11:33:43 - AI xác minh PET: cat (0.53)
+11:33:43 - AI xác minh PET: cat (0.83)
+11:33:43 - AI xác minh PET: cat (0.33)
+11:33:43 - AI xác minh PET: cat (0.66)
+11:33:43 - AI xác minh PET: dog (0.48)
+11:33:44 - AI xác minh PET: cat (0.83)
+11:33:44 - AI xác minh PET: cat (0.87)
+11:33:44 - AI xác minh PET: cat (0.80)
+11:33:44 - AI xác minh PET: cat (0.87)
+11:33:44 - AI xác minh PET: cat (0.82)
+11:33:44 - AI xác minh PET: cat (0.83)
+11:33:44 - AI xác minh PET: cat (0.81)
+11:33:45 - AI xác minh PET: cat (0.81)
+11:33:45 - AI xác minh PET: cat (0.86)
+11:33:45 - AI xác minh PET: cat (0.87)
+11:33:51 - PIR: phát hiện chuyển động
+11:33:51 - AI xác minh: Không phát hiện thú cưng
+11:33:51 - AI xác minh PET: cat (0.82)
+11:33:51 - AI xác minh PET: cat (0.71)
+11:33:52 - AI xác minh PET: cat (0.78)
+11:33:52 - AI xác minh PET: cat (0.70)
+11:33:52 - AI xác minh PET: cat (0.57)
+11:33:52 - AI xác minh PET: cat (0.77)
+11:33:53 - AI xác minh PET: cat (0.67)
+11:33:53 - AI xác minh PET: cat (0.75)
+11:33:53 - AI xác minh PET: cat (0.69)
+11:33:53 - AI xác minh PET: cat (0.72)
+11:33:53 - AI xác minh PET: cat (0.68)
+11:33:53 - AI xác minh PET: dog (0.56)
+11:33:56 - AI xác minh: Không phát hiện thú cưng
+11:34:09 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:34:15 - PIR: phát hiện chuyển động
+11:34:15 - AI xác minh: Không phát hiện thú cưng
+11:34:15 - AI xác minh PET: cat (0.51)
+11:34:15 - AI xác minh PET: cat (0.68)
+11:34:16 - AI xác minh PET: cat (0.81)
+11:34:16 - AI xác minh PET: cat (0.78)
+11:34:16 - AI xác minh PET: cat (0.76)
+11:34:17 - AI xác minh PET: cat (0.55)
+11:34:17 - AI xác minh PET: cat (0.28)
+11:34:17 - AI xác minh PET: cat (0.27)
+11:34:17 - AI xác minh PET: cat (0.27)
+11:34:18 - AI xác minh PET: cat (0.63)
+11:34:18 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:34:18 - AI xác minh PET: cat (0.74)
+11:34:18 - AI xác minh PET: cat (0.51)
+11:34:18 - AI xác minh PET: cat (0.31)
+11:34:18 - AI xác minh PET: cat (0.81)
+11:34:19 - AI xác minh PET: cat (0.77)
+11:34:19 - AI xác minh PET: cat (0.80)
+11:34:19 - AI xác minh PET: cat (0.52)
+11:34:19 - AI xác minh PET: cat (0.47)
+11:34:19 - AI xác minh PET: cat (0.47)
+11:34:20 - AI xác minh PET: cat (0.59)
+11:34:20 - AI xác minh PET: cat (0.42)
+11:34:20 - AI xác minh PET: cat (0.39)
+11:34:20 - AI xác minh PET: cat (0.34)
+11:34:20 - AI xác minh PET: cat (0.36)
+11:34:20 - AI xác minh: Không phát hiện thú cưng
+11:34:20 - AI xác minh PET: cat (0.51)
+11:34:21 - AI xác minh PET: cat (0.78)
+11:34:21 - AI xác minh PET: cat (0.49)
+11:34:21 - AI xác minh PET: cat (0.73)
+11:34:21 - AI xác minh PET: cat (0.41)
+11:34:21 - AI xác minh PET: cat (0.56)
+11:34:21 - AI xác minh PET: cat (0.34)
+11:34:22 - AI xác minh PET: cat (0.61)
+11:34:22 - AI xác minh PET: cat (0.38)
+11:34:22 - AI xác minh PET: cat (0.32)
+11:34:22 - AI xác minh PET: cat (0.29)
+11:34:22 - AI xác minh PET: cat (0.59)
+11:34:22 - AI xác minh PET: cat (0.53)
+11:34:23 - AI xác minh PET: cat (0.30)
+11:34:23 - AI xác minh PET: cat (0.39)
+11:34:23 - AI xác minh PET: cat (0.38)
+11:34:23 - AI xác minh PET: cat (0.35)
+11:34:23 - AI xác minh PET: cat (0.47)
+11:34:24 - AI xác minh PET: cat (0.56)
+11:34:24 - AI xác minh PET: cat (0.60)
+11:34:24 - PIR: phát hiện chuyển động
+11:34:24 - AI xác minh PET: cat (0.46)
+11:34:25 - AI xác minh PET: cat (0.69)
+11:34:25 - AI xác minh PET: dog (0.30)
+11:34:25 - AI xác minh PET: dog (0.43)
+11:34:25 - AI xác minh PET: cat (0.37)
+11:34:25 - AI xác minh PET: cat (0.44)
+11:34:25 - AI xác minh PET: dog (0.25)
+11:34:25 - AI xác minh: Không phát hiện thú cưng
+11:34:26 - AI xác minh PET: cat (0.75)
+11:34:26 - AI xác minh PET: cat (0.43)
+11:34:26 - AI xác minh PET: cat (0.64)
+11:34:26 - AI xác minh PET: dog (0.32)
+11:34:26 - AI xác minh PET: cat (0.82)
+11:34:26 - AI xác minh PET: cat (0.35)
+11:34:27 - AI xác minh PET: cat (0.34)
+11:34:27 - AI xác minh PET: dog (0.33)
+11:34:27 - AI xác minh PET: cat (0.31)
+11:34:30 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:34:33 - PIR: phát hiện chuyển động
+11:34:33 - AI xác minh: Không phát hiện thú cưng
+11:34:36 - PIR: phát hiện chuyển động
+11:34:38 - AI xác minh: Không phát hiện thú cưng
+11:34:39 - PIR: phát hiện chuyển động
+11:34:48 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:34:51 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:35:06 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:35:15 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:35:21 - PIR: phát hiện chuyển động
+11:35:21 - AI xác minh: Không phát hiện thú cưng
+11:35:26 - AI xác minh: Không phát hiện thú cưng
+11:35:27 - PIR: phát hiện chuyển động
+11:35:30 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:35:31 - AI xác minh: Không phát hiện thú cưng
+11:35:33 - AI xác minh PET: cat (0.79)
+11:35:33 - AI xác minh PET: cat (0.86)
+11:35:33 - AI xác minh PET: cat (0.84)
+11:35:36 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:35:48 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:35:51 - PIR: phát hiện chuyển động
+11:35:51 - AI xác minh PET: cat (0.88)
+11:35:51 - AI xác minh PET: cat (0.89)
+11:35:51 - AI xác minh: Không phát hiện thú cưng
+11:35:52 - AI xác minh PET: cat (0.89)
+11:35:52 - AI xác minh PET: cat (0.89)
+11:35:52 - AI xác minh PET: cat (0.88)
+11:35:52 - AI xác minh PET: cat (0.85)
+11:35:52 - AI xác minh PET: cat (0.88)
+11:35:52 - AI xác minh PET: cat (0.86)
+11:35:53 - AI xác minh PET: cat (0.90)
+11:35:53 - AI xác minh PET: cat (0.91)
+11:35:53 - AI xác minh PET: cat (0.90)
+11:35:53 - AI xác minh PET: cat (0.89)
+11:35:54 - AI xác minh PET: cat (0.90)
+11:35:54 - AI xác minh PET: cat (0.89)
+11:35:54 - AI xác minh PET: dog (0.36)
+11:35:54 - AI xác minh PET: cat (0.26)
+11:36:00 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:36:42 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:36:45 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:36:54 - PIR: phát hiện chuyển động
+11:36:55 - AI xác minh PET: cat (0.87)
+11:36:55 - AI xác minh PET: cat (0.86)
+11:36:55 - AI xác minh PET: cat (0.89)
+11:36:55 - AI xác minh: Không phát hiện thú cưng
+11:36:55 - AI xác minh PET: cat (0.35)
+11:36:57 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:37:00 - PIR: phát hiện chuyển động
+11:37:00 - AI xác minh: Không phát hiện thú cưng
+11:37:03 - AI xác minh PET: cat (0.78)
+11:37:03 - AI xác minh PET: cat (0.91)
+11:37:18 - PIR: phát hiện chuyển động
+11:37:19 - AI xác minh PET: cat (0.81)
+11:37:19 - AI xác minh PET: cat (0.55)
+11:37:19 - AI xác minh PET: cat (0.89)
+11:37:19 - AI xác minh PET: cat (0.46)
+11:37:19 - AI xác minh PET: cat (0.85)
+11:37:19 - AI xác minh PET: cat (0.88)
+11:37:20 - AI xác minh PET: cat (0.89)
+11:37:20 - AI xác minh PET: cat (0.88)
+11:37:20 - AI xác minh PET: cat (0.86)
+11:37:21 - AI xác minh PET: cat (0.86)
+11:37:21 - AI xác minh PET: cat (0.85)
+11:37:22 - AI xác minh PET: cat (0.85)
+11:37:22 - AI xác minh PET: cat (0.82)
+11:37:22 - AI xác minh PET: cat (0.86)
+11:37:22 - AI xác minh PET: cat (0.88)
+11:37:23 - AI xác minh PET: cat (0.86)
+11:37:23 - AI xác minh: Không phát hiện thú cưng
+11:37:23 - AI xác minh PET: cat (0.31)
+11:37:33 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:37:36 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:37:42 - PIR: phát hiện chuyển động
+11:37:42 - AI xác minh PET: cat (0.77)
+11:37:43 - AI xác minh PET: cat (0.88)
+11:37:43 - AI xác minh PET: cat (0.59)
+11:37:43 - AI xác minh PET: cat (0.89)
+11:37:44 - AI xác minh PET: cat (0.91)
+11:37:44 - AI xác minh PET: cat (0.73)
+11:37:44 - AI xác minh PET: cat (0.74)
+11:37:44 - AI xác minh PET: cat (0.91)
+11:37:44 - AI xác minh PET: cat (0.91)
+11:37:45 - AI xác minh PET: cat (0.89)
+11:37:45 - AI xác minh PET: cat (0.90)
+11:37:45 - AI xác minh PET: cat (0.90)
+11:37:45 - AI xác minh PET: cat (0.90)
+11:37:45 - AI xác minh PET: cat (0.90)
+11:37:46 - AI xác minh PET: cat (0.90)
+11:37:46 - AI xác minh PET: cat (0.78)
+11:37:46 - AI xác minh PET: cat (0.90)
+11:37:46 - AI xác minh PET: cat (0.89)
+11:37:46 - AI xác minh PET: cat (0.85)
+11:37:46 - AI xác minh PET: cat (0.89)
+11:37:47 - AI xác minh PET: cat (0.89)
+11:37:47 - AI xác minh PET: cat (0.90)
+11:37:47 - AI xác minh PET: cat (0.85)
+11:37:47 - AI xác minh PET: cat (0.88)
+11:37:47 - AI xác minh PET: cat (0.89)
+11:37:48 - AI xác minh PET: cat (0.90)
+11:37:48 - AI xác minh PET: cat (0.90)
+11:37:48 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
+11:37:48 - AI xác minh PET: cat (0.89)
+11:37:49 - AI xác minh PET: cat (0.82)
+11:37:49 - AI xác minh PET: cat (0.44)
+11:37:49 - AI xác minh PET: cat (0.87)
+11:37:50 - AI xác minh PET: cat (0.87)
+11:37:50 - AI xác minh PET: cat (0.90)
+11:37:50 - AI xác minh PET: cat (0.80)
+11:37:50 - AI xác minh PET: cat (0.76)
+11:37:51 - AI xác minh PET: cat (0.90)
+11:37:51 - AI xác minh PET: cat (0.77)
+11:37:51 - AI xác minh: Không phát hiện thú cưng
+11:38:03 - RFID: Mèo của Vân mang thẻ VAN_CAT_001
